@@ -52,6 +52,8 @@
 - 💎 Programación Frontend <a href="https://lumetrio.com/certificado/20862bcbb1bcd3cf835db" target="blank">Lumetrio</a>.
 
 - 💎 Python <a href="https://lumetrio.com/certificado/20865d3165b9228fa0c96" target="blank">Lumetrio</a>.
+  
+- 💎 React <a href="" target="blank">Lumetrio</a>.
 
 - 🚀 Full Stack Python <a href="https://drive.google.com/file/d/1LbpYVB4MvOxZx4rpVx_PH-j8_vhc1e_U/view?usp=sharing" target="blank">Codo a Codo</a>.
 
