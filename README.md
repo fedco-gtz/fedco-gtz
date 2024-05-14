@@ -35,6 +35,9 @@
     <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     </a>  
+    <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-5C3310?style=for-the-badge&logo=git&logoColor=white" />
+    </a> 
 <p>
 
 <h2 align="center">📚 Capacitaciones </h2>
