@@ -58,7 +58,7 @@
   
 - 💎 React <a href="" target="blank">Lumetrio</a>.
 
-- 💎 Git y Github <a href="" target="blank">Lumetrio</a>.
+- 💎 Git y Github <a href="https://lumetrio.com/certificado/20864454c6075c8b691d9" target="blank">Lumetrio</a>.
 
 - 🚀 Full Stack Python <a href="https://drive.google.com/file/d/1LbpYVB4MvOxZx4rpVx_PH-j8_vhc1e_U/view?usp=sharing" target="blank">Codo a Codo</a>.
 
