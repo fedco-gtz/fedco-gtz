@@ -59,7 +59,7 @@
 
 - 💎 Python <a href="https://lumetrio.com/certificado/20865d3165b9228fa0c96" target="blank">Lumetrio</a>.
   
-- 💎 React <a href="" target="blank">Lumetrio</a>.
+- 💎 React <a href="https://lumetrio.com/certificado/2086729e93aab4bd650fd" target="blank">Lumetrio</a>.
 
 - 💎 Git y Github <a href="https://lumetrio.com/certificado/20864454c6075c8b691d9" target="blank">Lumetrio</a>.
 
