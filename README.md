@@ -69,7 +69,9 @@
 
 - 🟡 JavaScript <a href="https://www.coderhouse.com/ar/certificados/66158e00451ec417dfb30263?lang=es" target="blank">Coderhouse</a>.
 
-- 🟡 React Js <a href="" target="blank">Coderhouse</a>.
+- 🟡 React Js <a href="https://www.coderhouse.com/ar/certificados/664be1fdc35d22af7ccbacda?lang=es" target="blank">Coderhouse</a>.
+
+- 🟡 Carrera de Desarrollo Frontend React <a href="https://www.coderhouse.com/ar/certificados/664be1fdc35d221341cbace5?lang=es" target="blank">Coderhouse</a>. 
 
 
 <h2 align="center">📫 Contactame en </h2>
