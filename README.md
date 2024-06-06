@@ -71,7 +71,9 @@
 
 - 🟡 React Js <a href="https://www.coderhouse.com/ar/certificados/664be1fdc35d22af7ccbacda?lang=es" target="blank">Coderhouse</a>.
 
-- 🟡 Carrera de Desarrollo Frontend React <a href="https://www.coderhouse.com/ar/certificados/664be1fdc35d221341cbace5?lang=es" target="blank">Coderhouse</a>. 
+- 🟡 Carrera de Desarrollo Frontend React <a href="https://www.coderhouse.com/ar/certificados/664be1fdc35d221341cbace5?lang=es" target="blank">Coderhouse</a>.
+  
+- 🟡 Programación Backend I: Desarrollo Avanzado de Backend  <a href="https://http.cat/102" target="blank">Coderhouse</a>. 
 
 
 <h2 align="center">📫 Contactame en </h2>
