@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Federico G. Gutierrez</a></h1>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=fedco-gtz&label=Vista%20de%20Perfil&color=0e75b6&style=flat" alt="FedericoGutierrez" /> 
-    <img src="https://img.shields.io/badge/Edad-30-blue" alt="Edad">
+    <img src="https://img.shields.io/badge/Edad-31-blue" alt="Edad">
     <img src="https://img.shields.io/badge/Vivo-Argentina-success" />
 </p>
 
