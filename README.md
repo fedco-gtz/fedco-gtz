@@ -81,6 +81,23 @@
 - 🟡 Programación Backend I: Desarrollo Avanzado de Backend  <a href="https://http.cat/102" target="blank">Coderhouse</a>. 
 
 
+<h2 align="center">🧑🏽‍💻 Proyectos </h2>
+
+- Mascotas Felices [🌐Github Pages](https://fedco-gtz.github.io/DesarrolloWeb-Coderhouse/) | [🔗Repositorio](https://github.com/fedco-gtz/DesarrolloWeb-Coderhouse)
+
+- Porfolio [🌐Github Pages](https://fedco-gtz.github.io/ProgramacionFrontEnd-Lumetrio/) | [🔗Repositorio](https://github.com/fedco-gtz/ProgramacionFrontEnd-Lumetrio)
+
+- VuelaSmart [🌐Github Pages](https://fedco-gtz.github.io/JavaScripts-Coderhouse/) | [🔗Repositorio](https://github.com/fedco-gtz/JavaScripts-Coderhouse)
+
+- Zapatienda [🌐Vercel](https://zapatienda.vercel.app/) | [🔗Repositorio](https://github.com/fedco-gtz/ReactJs-Coderhouse)
+
+- Funko Paradise [🌐Vercel](https://funkoparadise.vercel.app/) | [🔗Repositorio](https://github.com/fedco-gtz/React-Lumetrio)
+
+- CAC Movie [🌐Render](https://cac-movie.onrender.com/) | [🔗Repositorio](https://github.com/fedco-gtz/BackEnd-CaC) 
+
+- Invitación Casamiento [🌐Web](https://casamientogerygabi.com.ar/) | [🔗Repositorio](https://github.com/fedco-gtz/NosCasamosGeryGabi) 
+
+
 <h2 align="center">📫 Contactame en </h2>
 
 
@@ -91,7 +108,6 @@
     <a href="https://www.instagram.com/grrz.fede/" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>
-    <!-- gmail -->
     <a href="mailto:gutierrezfedericog@gmail.com" target="_blank">
     <img src=https://img.shields.io/badge/gmail-%ff5851db.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
     </a>
