@@ -88,6 +88,8 @@
   
 - 🟡 Programación Backend I: Desarrollo Avanzado de Backend  <a href="https://http.cat/102" target="blank">Coderhouse</a>. 
 
+- 🟡 Programación Backend II: Diseño y Arquitectura Backend  <a href="https://http.cat/102" target="blank">Coderhouse</a>. 
+
 
 <h2 align="center">🧑🏽‍💻 Proyectos </h2>
 
