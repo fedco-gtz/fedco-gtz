@@ -70,6 +70,14 @@
 
 - 🚀 BackEnd Node JS <a href="https://http.cat/102" target="blank">Codo a Codo</a>.
 
+- 🔥 Google: Inteligencia Artificial y productividad  <a href="https://drive.google.com/file/d/1PCssWgcS_NSgHnJycS2aRDsRbbbk2HwK/view?usp=drive_link" target="blank">Santander Open Academy</a>.
+
+- 🔥 Copilot  <a href="https://drive.google.com/file/d/1KHq8STQeGyLAKHRiMj_v7nkCXnpQR7je/view?usp=drive_link" target="blank">Santander Open Academy</a>. 
+
+- 🔥 Introducción a la Ciencia de Datos  <a href="https://drive.google.com/file/d/1I8JOrpYBE_yUtf77cY-hQ5e-1BtfXvWz/view?usp=drive_link" target="blank">Santander Open Academy</a>. 
+
+- 🔥 Power BI  <a href="https://drive.google.com/file/d/1iG7jLa-r7vYB1Y1TgPGSiMnYDhrThP6g/view?usp=drive_link" target="blank">Santander Open Academy</a>. 
+
 - 🟡 Desarrollo Web <a href="https://www.coderhouse.com/ar/certificados/65c0a148a665c35259cc62a3?lang=es" target="blank">Coderhouse</a>.
 
 - 🟡 JavaScript <a href="https://www.coderhouse.com/ar/certificados/66158e00451ec417dfb30263?lang=es" target="blank">Coderhouse</a>.
