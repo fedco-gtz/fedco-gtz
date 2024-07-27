@@ -38,11 +38,20 @@
     <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     </a>  
-    <a href="[https://git-scm.com/](https://github.com/fedco-gtz)" target="_blank">
+    <a href="https://github.com/fedco-gtz" target="_blank">
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
     </a> 
     <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-5C3310?style=for-the-badge&logo=git&logoColor=white" />
+    </a>
+    <a href="https://handlebarsjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/handlebars.js-f0772b?style=for-the-badge&logo=handlebars.js&logoColor=white" />
+    </a> 
+    <a href="https://mongoosejs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Mongoose-990000?style=for-the-badge&logo=mongoose&logoColor=white" />
+    </a>
+    <a href="https://www.mongodb.com/es" target="_blank">
+    <img src="https://img.shields.io/badge/mongoDB-4cb61e?style=for-the-badge&logo=mongodb&logoColor=white" />
     </a> 
 <p>
 
@@ -86,7 +95,7 @@
 
 - 🟡 Carrera de Desarrollo Frontend React <a href="https://www.coderhouse.com/ar/certificados/664be1fdc35d221341cbace5?lang=es" target="blank">Coderhouse</a>.
   
-- 🟡 Programación Backend I: Desarrollo Avanzado de Backend  <a href="https://http.cat/102" target="blank">Coderhouse</a>. 
+- 🟡 Programación Backend I: Desarrollo Avanzado de Backend  <a href="https://www.coderhouse.com/ar/certificados/66a4638e64c8734d4c85aa10?lang=es" target="blank">Coderhouse</a>. 
 
 - 🟡 Programación Backend II: Diseño y Arquitectura Backend  <a href="https://http.cat/102" target="blank">Coderhouse</a>. 
 
