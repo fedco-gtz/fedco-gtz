@@ -56,7 +56,7 @@
 <h2 align="center">📚 Capacitaciones </h2>
 
 |Egg Cooperation |
-|---| --- |
+|---|---|
 | Curso | Diploma |
 | Programación desde cero |
 | Programación Web desde cero |
