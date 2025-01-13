@@ -55,11 +55,14 @@
 
 <h2 align="center">📚 Capacitaciones </h2>
 
-|Egg | Cooperation |
-|---|---|
-| Curso | Diploma |
-| Programación desde cero |
+|Egg Cooperation |
+|---|
+| [Programación desde cero](https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg) |
 | Programación Web desde cero |
+
+
+
+
 
 - 🥚 Programación desde cero <a href="https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg" target="blank">Egg Cooperation</a>.
 
