@@ -142,23 +142,13 @@
 <p align="center">
 <img src="./Images/Egg-Cooperation.png" alt="Egg-Cooperation Logo" width="120" height="120">
 &nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="120">
-&nbsp;&nbsp;
 <img src="./Images/Ministerio-Economia.png" alt="Ministerio-de-Economía Logo" width="120" height="120">
-&nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="120">
 &nbsp;&nbsp;
 <img src="./Images/Lumetrio.png" alt="Lumetrio Logo" width="120" height="120">
 &nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="120">
-&nbsp;&nbsp;
 <img src="./Images/Educacion-BA.png" alt="Educacion-BA Logo" width="120" height="120">
 &nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="120">
-&nbsp;&nbsp;
 <img src="./Images/Santander-Open-Academy.png" alt="Santander-Open-Academy Logo" width="120" height="120">
-&nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="120">
 &nbsp;&nbsp;
 <img src="./Images/Coderhouse.png" alt="Coderhouse Logo" width="120" height="120">
 </p>
