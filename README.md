@@ -7,9 +7,9 @@
 
 
 
-- 🧮 Profesor de Matemática.
+- 🧮 Profesor de Matemática
 
-- 👨🏼‍🏫 Estudiante de la 'Carrera de Data Scientist' en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="100" height="25">](https://www.coderhouse.com/ar)
+- 👨🏼‍🏫 Estudiante de la `Carrera de Data Scientist` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://www.coderhouse.com/ar)
 
 - 📄 Conoce mis experiencias <a href="" target="blank">Curriculum Vitae</a>.
 <br/>
@@ -54,6 +54,12 @@
 <p>
 
 <h2 align="center">📚 Capacitaciones </h2>
+
+|Egg Cooperation |
+|---|
+|Curso |
+|Programación desde cero |
+|Programación Web desde cero |
 
 - 🥚 Programación desde cero <a href="https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg" target="blank">Egg Cooperation</a>.
 
