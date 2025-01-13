@@ -7,11 +7,9 @@
 
 
 
-- 🧮 Soy profesor de Matemática.
+- 🧮 Profesor de Matemática.
 
-- 👨🏼‍🏫 Estudiante de la Licenciatura en Matemática en la <a href="https://www.unlu.edu.ar/" target="blank">Universidad Nacional de Lujan</a>.
-
-- 💻 Actualmente me encuentro aprendiendo Programación Backend I en <a href="https://www.coderhouse.com/" target="blank">Coderhouse</a>.
+- 👨🏼‍🏫 Estudiante de la 'Carrera de Data Scientist' en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="100" height="25">](https://www.coderhouse.com/ar)
 
 - 📄 Conoce mis experiencias <a href="" target="blank">Curriculum Vitae</a>.
 <br/>
