@@ -55,43 +55,41 @@
 
 <h2 align="center">📚 Capacitaciones </h2>
 
-|Egg Cooperation 🥚|
+|🥚 Egg Cooperation 🥚|
 |:---:|
 | [Programación desde cero](https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg) |
 | [Programación Web desde cero](https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg) |
 
+|🧉 Argentina Programa 4.0 🧉|
+|:---:|
+| [Primeros pasos del desarrollo frontend](https://drive.google.com/file/d/1515Bcy4hGdobzeDxOSyLe5kmVp-0Eq_Y/view?usp=sharing) |
+| [Desarrollador con conocimientos complementarios en el proceso de datos con Python](https://drive.google.com/file/d/1SkbRNg_086TElDsLmwMBhfzNecy6P1D7/view?usp=sharing) |
+
+|💎 Lumetrio 💎|
+|:---:|
+| [Introducción a la Programación](https://lumetrio.com/certificado/2086142bcefd37c4017a8) |
+| [Programación Frontend](https://lumetrio.com/certificado/20862bcbb1bcd3cf835db) |
+| [Python](https://lumetrio.com/certificado/20865d3165b9228fa0c96) |
+| [React](https://lumetrio.com/certificado/2086729e93aab4bd650fd) |
+| [Git y Github](https://lumetrio.com/certificado/20864454c6075c8b691d9) |
+
+|🚀 Talento Tech (ex Codo a Codo) 🚀|
+|:---:|
+| [Full Stack Python](https://drive.google.com/file/d/1LbpYVB4MvOxZx4rpVx_PH-j8_vhc1e_U/view?usp=sharing) |
+| [BackEnd Node JS](https://drive.google.com/file/d/1L46wTK7QcFp6lzWnDXjxGAYi7Epablus/view?usp=sharing) |
+| [Iniciación a la Programación con Python](https://drive.google.com/file/d/1eLMbjnwjVip6VpYYJrvgT7-ySJjnAPiX/view?usp=sharing) |
+
+|🔥 Santander Open Academy 🔥|
+|:---:|
+| [Google: Inteligencia Artificial y productividad](https://drive.google.com/file/d/1PCssWgcS_NSgHnJycS2aRDsRbbbk2HwK/view?usp=drive_link) |
+| [Copilot](https://drive.google.com/file/d/1KHq8STQeGyLAKHRiMj_v7nkCXnpQR7je/view?usp=drive_link) |
+| [Introducción a la Ciencia de Datos](https://drive.google.com/file/d/1I8JOrpYBE_yUtf77cY-hQ5e-1BtfXvWz/view?usp=drive_link) |
+| [Power BI](https://drive.google.com/file/d/1iG7jLa-r7vYB1Y1TgPGSiMnYDhrThP6g/view?usp=drive_link) |
 
 
 
 
 
-- 🇦🇷 Primeros pasos del desarrollo frontend <a href="https://drive.google.com/file/d/1515Bcy4hGdobzeDxOSyLe5kmVp-0Eq_Y/view?usp=sharing" target="blank">Argentina Programa 4.0</a>.
-
-- 🇦🇷 Desarrollador con conocimientos complementarios en el proceso de datos con Python <a href="https://drive.google.com/file/d/1SkbRNg_086TElDsLmwMBhfzNecy6P1D7/view?usp=sharing" target="blank">Argentina Programa 4.0</a>.
-
-- 💎 Introducción a la Programación <a href="https://lumetrio.com/certificado/2086142bcefd37c4017a8" target="blank">Lumetrio</a>.
-
-- 💎 Programación Frontend <a href="https://lumetrio.com/certificado/20862bcbb1bcd3cf835db" target="blank">Lumetrio</a>.
-
-- 💎 Python <a href="https://lumetrio.com/certificado/20865d3165b9228fa0c96" target="blank">Lumetrio</a>.
-  
-- 💎 React <a href="https://lumetrio.com/certificado/2086729e93aab4bd650fd" target="blank">Lumetrio</a>.
-
-- 💎 Git y Github <a href="https://lumetrio.com/certificado/20864454c6075c8b691d9" target="blank">Lumetrio</a>.
-
-- 🚀 Full Stack Python <a href="https://drive.google.com/file/d/1LbpYVB4MvOxZx4rpVx_PH-j8_vhc1e_U/view?usp=sharing" target="blank">Codo a Codo</a>.
-
-- 🚀 BackEnd Node JS <a href="https://drive.google.com/file/d/1L46wTK7QcFp6lzWnDXjxGAYi7Epablus/view?usp=sharing" target="blank">Codo a Codo</a>.
-
-- 🚀 Iniciación a la Programación con Python <a href="https://http.cat/102" target="blank">Talento Tech</a>.
-
-- 🔥 Google: Inteligencia Artificial y productividad  <a href="https://drive.google.com/file/d/1PCssWgcS_NSgHnJycS2aRDsRbbbk2HwK/view?usp=drive_link" target="blank">Santander Open Academy</a>.
-
-- 🔥 Copilot  <a href="https://drive.google.com/file/d/1KHq8STQeGyLAKHRiMj_v7nkCXnpQR7je/view?usp=drive_link" target="blank">Santander Open Academy</a>. 
-
-- 🔥 Introducción a la Ciencia de Datos  <a href="https://drive.google.com/file/d/1I8JOrpYBE_yUtf77cY-hQ5e-1BtfXvWz/view?usp=drive_link" target="blank">Santander Open Academy</a>. 
-
-- 🔥 Power BI  <a href="https://drive.google.com/file/d/1iG7jLa-r7vYB1Y1TgPGSiMnYDhrThP6g/view?usp=drive_link" target="blank">Santander Open Academy</a>. 
 
 - 🟡 Desarrollo Web <a href="https://www.coderhouse.com/ar/certificados/65c0a148a665c35259cc62a3?lang=es" target="blank">Coderhouse</a>.
 
