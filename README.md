@@ -75,7 +75,9 @@
 
 - 🚀 Full Stack Python <a href="https://drive.google.com/file/d/1LbpYVB4MvOxZx4rpVx_PH-j8_vhc1e_U/view?usp=sharing" target="blank">Codo a Codo</a>.
 
-- 🚀 BackEnd Node JS <a href="https://http.cat/102" target="blank">Codo a Codo</a>.
+- 🚀 BackEnd Node JS <a href="https://drive.google.com/file/d/1L46wTK7QcFp6lzWnDXjxGAYi7Epablus/view?usp=sharing" target="blank">Codo a Codo</a>.
+
+- 🚀 Iniciación a la Programación con Python <a href="https://http.cat/102" target="blank">Talento Tech</a>.
 
 - 🔥 Google: Inteligencia Artificial y productividad  <a href="https://drive.google.com/file/d/1PCssWgcS_NSgHnJycS2aRDsRbbbk2HwK/view?usp=drive_link" target="blank">Santander Open Academy</a>.
 
@@ -95,7 +97,9 @@
   
 - 🟡 Programación Backend I: Desarrollo Avanzado de Backend  <a href="https://www.coderhouse.com/ar/certificados/66a4638e64c8734d4c85aa10?lang=es" target="blank">Coderhouse</a>. 
 
-- 🟡 Programación Backend II: Diseño y Arquitectura Backend  <a href="https://http.cat/102" target="blank">Coderhouse</a>. 
+- 🟡 Programación Backend II: Diseño y Arquitectura Backend  <a href="https://www.coderhouse.com/ar/certificados/66f5b32dd1c51d20ed892031?lang=es" target="blank">Coderhouse</a>. 
+
+- 🟡 Programación Backend III: Testing y Escalabilidad Backend  <a href="https://http.cat/102" target="blank">Coderhouse</a>. 
 
 
 <h2 align="center">🧑🏽‍💻 Proyectos </h2>
