@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Federico G. Gutierrez</a></h1>
+<h1 align="center">Hola 👋 <br> Soy Federico G. Gutierrez</a></h1>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=fedco-gtz&label=Vista%20de%20Perfil&color=0e75b6&style=flat" alt="FedericoGutierrez" /> 
     <img src="https://img.shields.io/badge/Edad-31-blue" alt="Edad">
@@ -15,7 +15,7 @@
 <br/>
 
 
-<h2 align="center">🛠️ Lenguajes de programación y herramientas</h2>
+<h2 align="center">🛠️ Lenguajes de programación y herramientas 🛠️</h2>
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank">
@@ -53,7 +53,7 @@
     </a> 
 <p>
 
-<h2 align="center">📚 Capacitaciones </h2>
+<h2 align="center">📚 Capacitaciones 📚 </h2>
 
 |🥚 Egg Cooperation 🥚|
 |:---:|
@@ -97,7 +97,7 @@
 | [Programación Backend III: Testing y Escalabilidad Backend](https://pub.coderhouse.com/legacy-certificates/67506c7b4ea27fc1cf1d02ef?lang=es) |
 | [Fundamentos de Inteligencia Artificial]() |
 | [Data Analytics]() |
-| [Inteligencia Artificial Generación de Prompts]() |
+| [Inteligencia Artificial: Generación de Prompts]() |
 | [SQL Flex]() |
 | [Data Science I: Fundamentos para la Ciencia de Datos Flex]() |
 | [Testing QA Manual Flex]() |
@@ -105,31 +105,65 @@
 | [Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex]() |
 | [Carrera de Data Scientist]() |
 
+<h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
+[<img src="./Images/Casamiento.png" alt="Casamiento Logo" width="140" height="80">](https://fedco-gtz.github.io/Nos-Casamos-Ger-y-Gabi/)
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
+[<img src="./Images/Music-Store.png" alt="Music-Store Logo" width="210" height="80">](https://fedco-gtz.github.io/MusicStore-Codo-a-Codo/)
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
+[<img src="./Images/Mascotas-Felices.png" alt="Mascotas-Felices Logo" width="80" height="80">](https://mascotas-felices.netlify.app/)
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
+[<img src="./Images/VuelaSmart.png" alt="VuelaSmart Logo" width="115" height="80">](https://vuelasmart.netlify.app/)
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
+[<img src="./Images/ZapaTienda.png" alt="ZapaTienda Logo" width="80" height="80">](https://zapatienda.vercel.app/)
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
+[<img src="./Images/Funko-Paradise.png" alt="Funko-Paradise Logo" width="140" height="80">](https://funkoparadise.vercel.app/)
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
+[<img src="./Images/Verde-Vital.png" alt="Verde-Vital Logo" width="130" height="80">]()
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
+[<img src="./Images/AdoptMe.png" alt="AdoptMe Logo" width="140" height="80">]()
 
+<h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
-  
+<p align="center">
+<img src="./Images/Egg-Cooperation.png" alt="Egg-Cooperation Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="120">
+&nbsp;&nbsp;
+<img src="./Images/Ministerio-Economia.png" alt="Ministerio-de-Economía Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="120">
+&nbsp;&nbsp;
+<img src="./Images/Lumetrio.png" alt="Lumetrio Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="120">
+&nbsp;&nbsp;
+<img src="./Images/Educacion-BA.png" alt="Educacion-BA Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="120">
+&nbsp;&nbsp;
+<img src="./Images/Santander-Open-Academy.png" alt="Santander-Open-Academy Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="120">
+&nbsp;&nbsp;
+<img src="./Images/Coderhouse.png" alt="Coderhouse Logo" width="120" height="120">
+</p>
 
-
-
-<h2 align="center">🧑🏽‍💻 Proyectos </h2>
-
-- Mascotas Felices [🌐Github Pages](https://fedco-gtz.github.io/DesarrolloWeb-Coderhouse/) | [🔗Repositorio](https://github.com/fedco-gtz/DesarrolloWeb-Coderhouse)
-
-- Porfolio [🌐Github Pages](https://fedco-gtz.github.io/ProgramacionFrontEnd-Lumetrio/) | [🔗Repositorio](https://github.com/fedco-gtz/ProgramacionFrontEnd-Lumetrio)
-
-- VuelaSmart [🌐Github Pages](https://fedco-gtz.github.io/JavaScripts-Coderhouse/) | [🔗Repositorio](https://github.com/fedco-gtz/JavaScripts-Coderhouse)
-
-- Zapatienda [🌐Vercel](https://zapatienda.vercel.app/) | [🔗Repositorio](https://github.com/fedco-gtz/ReactJs-Coderhouse)
-
-- Funko Paradise [🌐Vercel](https://funkoparadise.vercel.app/) | [🔗Repositorio](https://github.com/fedco-gtz/React-Lumetrio)
-
-- CAC Movie [🌐Render](https://cac-movie.onrender.com/) | [🔗Repositorio](https://github.com/fedco-gtz/BackEnd-CaC) 
-
-- Invitación Casamiento [🌐Web](https://casamientogerygabi.com.ar/) | [🔗Repositorio](https://github.com/fedco-gtz/NosCasamosGeryGabi) 
-
-
-<h2 align="center">📫 Contactame en </h2>
+<h2 align="center">📫 Contactame en 📫</h2>
 
 
 <p align="center">
