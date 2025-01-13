@@ -86,24 +86,30 @@
 | [Introducción a la Ciencia de Datos](https://drive.google.com/file/d/1I8JOrpYBE_yUtf77cY-hQ5e-1BtfXvWz/view?usp=drive_link) |
 | [Power BI](https://drive.google.com/file/d/1iG7jLa-r7vYB1Y1TgPGSiMnYDhrThP6g/view?usp=drive_link) |
 
+|🟡 Coderhouse 🟡|
+|:---:|
+| [Desarrollo Web](https://pub.coderhouse.com/legacy-certificates/65c0a148a665c35259cc62a3?lang=es) |
+| [JavaScript](https://pub.coderhouse.com/legacy-certificates/66158e00451ec417dfb30263?lang=es) |
+| [React Js](https://pub.coderhouse.com/legacy-certificates/664be1fdc35d22af7ccbacda?lang=es) |
+| [Carrera de Desarrollo Frontend React](https://pub.coderhouse.com/legacy-certificates/664be1fdc35d221341cbace5?lang=es) |
+| [Programación Backend I: Desarrollo Avanzado de Backend](https://pub.coderhouse.com/legacy-certificates/66a4638e64c8734d4c85aa10?lang=es) |
+| [Programación Backend II: Diseño y Arquitectura Backend](https://pub.coderhouse.com/legacy-certificates/66f5b32dd1c51d20ed892031?lang=es) |
+| [Programación Backend III: Testing y Escalabilidad Backend](https://pub.coderhouse.com/legacy-certificates/67506c7b4ea27fc1cf1d02ef?lang=es) |
+| [Fundamentos de Inteligencia Artificial]() |
+| [Data Analytics]() |
+| [Inteligencia Artificial Generación de Prompts]() |
+| [SQL Flex]() |
+| [Data Science I: Fundamentos para la Ciencia de Datos Flex]() |
+| [Testing QA Manual Flex]() |
+| [Data Science II: Machine Learning para la Ciencia de Datos Flex]() |
+| [Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex]() |
+| [Carrera de Data Scientist]() |
 
 
 
 
-
-- 🟡 Desarrollo Web <a href="https://www.coderhouse.com/ar/certificados/65c0a148a665c35259cc62a3?lang=es" target="blank">Coderhouse</a>.
-
-- 🟡 JavaScript <a href="https://www.coderhouse.com/ar/certificados/66158e00451ec417dfb30263?lang=es" target="blank">Coderhouse</a>.
-
-- 🟡 React Js <a href="https://www.coderhouse.com/ar/certificados/664be1fdc35d22af7ccbacda?lang=es" target="blank">Coderhouse</a>.
-
-- 🟡 Carrera de Desarrollo Frontend React <a href="https://www.coderhouse.com/ar/certificados/664be1fdc35d221341cbace5?lang=es" target="blank">Coderhouse</a>.
   
-- 🟡 Programación Backend I: Desarrollo Avanzado de Backend  <a href="https://www.coderhouse.com/ar/certificados/66a4638e64c8734d4c85aa10?lang=es" target="blank">Coderhouse</a>. 
 
-- 🟡 Programación Backend II: Diseño y Arquitectura Backend  <a href="https://www.coderhouse.com/ar/certificados/66f5b32dd1c51d20ed892031?lang=es" target="blank">Coderhouse</a>. 
-
-- 🟡 Programación Backend III: Testing y Escalabilidad Backend  <a href="https://http.cat/102" target="blank">Coderhouse</a>. 
 
 
 <h2 align="center">🧑🏽‍💻 Proyectos </h2>
