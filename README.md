@@ -55,18 +55,15 @@
 
 <h2 align="center">📚 Capacitaciones </h2>
 
-|Egg Cooperation |
-|---|
+|Egg Cooperation 🥚|
+|:---:|
 | [Programación desde cero](https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg) |
-| Programación Web desde cero |
+| [Programación Web desde cero](https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg) |
 
 
 
 
 
-- 🥚 Programación desde cero <a href="https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg" target="blank">Egg Cooperation</a>.
-
-- 🥚 Programación Web desde cero <a href="https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg" target="blank">Egg Cooperation</a>.
 
 - 🇦🇷 Primeros pasos del desarrollo frontend <a href="https://drive.google.com/file/d/1515Bcy4hGdobzeDxOSyLe5kmVp-0Eq_Y/view?usp=sharing" target="blank">Argentina Programa 4.0</a>.
 
