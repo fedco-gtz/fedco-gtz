@@ -59,21 +59,13 @@
 |:---:|:---:|
 | [Programación desde cero](https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg) | [Primeros pasos del desarrollo frontend](https://drive.google.com/file/d/1515Bcy4hGdobzeDxOSyLe5kmVp-0Eq_Y/view?usp=sharing) |
 | [Programación Web desde cero](https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg) | [Desarrollador con conocimientos complementarios en el proceso de datos con Python](https://drive.google.com/file/d/1SkbRNg_086TElDsLmwMBhfzNecy6P1D7/view?usp=sharing) |
+|💎 Lumetrio 💎|🚀 Talento Tech (ex Codo a Codo) 🚀|
+| [Introducción a la Programación](https://lumetrio.com/certificado/2086142bcefd37c4017a8) | [Full Stack Python](https://drive.google.com/file/d/1LbpYVB4MvOxZx4rpVx_PH-j8_vhc1e_U/view?usp=sharing) |
+| [Programación Frontend](https://lumetrio.com/certificado/20862bcbb1bcd3cf835db) | [BackEnd Node JS](https://drive.google.com/file/d/1L46wTK7QcFp6lzWnDXjxGAYi7Epablus/view?usp=sharing) |
+| [Python](https://lumetrio.com/certificado/20865d3165b9228fa0c96) | | [Iniciación a la Programación con Python](https://drive.google.com/file/d/1eLMbjnwjVip6VpYYJrvgT7-ySJjnAPiX/view?usp=sharing) | |
+| [React](https://lumetrio.com/certificado/2086729e93aab4bd650fd) | |
+| [Git y Github](https://lumetrio.com/certificado/20864454c6075c8b691d9) | |
 
-
-|💎 Lumetrio 💎|
-|:---:|
-| [Introducción a la Programación](https://lumetrio.com/certificado/2086142bcefd37c4017a8) |
-| [Programación Frontend](https://lumetrio.com/certificado/20862bcbb1bcd3cf835db) |
-| [Python](https://lumetrio.com/certificado/20865d3165b9228fa0c96) |
-| [React](https://lumetrio.com/certificado/2086729e93aab4bd650fd) |
-| [Git y Github](https://lumetrio.com/certificado/20864454c6075c8b691d9) |
-
-|🚀 Talento Tech (ex Codo a Codo) 🚀|
-|:---:|
-| [Full Stack Python](https://drive.google.com/file/d/1LbpYVB4MvOxZx4rpVx_PH-j8_vhc1e_U/view?usp=sharing) |
-| [BackEnd Node JS](https://drive.google.com/file/d/1L46wTK7QcFp6lzWnDXjxGAYi7Epablus/view?usp=sharing) |
-| [Iniciación a la Programación con Python](https://drive.google.com/file/d/1eLMbjnwjVip6VpYYJrvgT7-ySJjnAPiX/view?usp=sharing) |
 
 |🔥 Santander Open Academy 🔥|
 |:---:|
