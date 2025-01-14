@@ -83,13 +83,6 @@
 | [Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex]() | |
 | [Carrera de Data Scientist]() | |
 
-|🔥 Santander Open Academy 🔥|
-|:---:|
-| [Google: Inteligencia Artificial y productividad](https://drive.google.com/file/d/1PCssWgcS_NSgHnJycS2aRDsRbbbk2HwK/view?usp=drive_link) |
-| [Copilot](https://drive.google.com/file/d/1KHq8STQeGyLAKHRiMj_v7nkCXnpQR7je/view?usp=drive_link) |
-| [Introducción a la Ciencia de Datos](https://drive.google.com/file/d/1I8JOrpYBE_yUtf77cY-hQ5e-1BtfXvWz/view?usp=drive_link) |
-| [Power BI](https://drive.google.com/file/d/1iG7jLa-r7vYB1Y1TgPGSiMnYDhrThP6g/view?usp=drive_link) |
-
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
 [<img src="./Images/Casamiento.png" alt="Casamiento Logo" width="140" height="80">](https://fedco-gtz.github.io/Nos-Casamos-Ger-y-Gabi/)
@@ -152,3 +145,6 @@
     <img src=https://img.shields.io/badge/gmail-%ff5851db.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
     </a>
 </p>
+
+_________________________________________________________________________________________________________
+**Última actualización - 14/01/2025**
