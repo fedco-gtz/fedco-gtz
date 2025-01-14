@@ -133,18 +133,22 @@
 
 <h2 align="center">📫 Contactame en 📫</h2>
 
-
 <p align="center">
     <a href="https://www.linkedin.com/in/fedco-grrz/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src=./Images/LinkedIn.png alt=LinkedIn_Logo width="45" height="45" style="margin-bottom: 5px;"/>
     </a>
+    &nbsp;
     <a href="https://www.instagram.com/grrz.fede/" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    <img src=./Images/Instagram.png alt=Instagram_Logo width="45" height="45" style="margin-bottom: 5px;"/>
     </a>
+    &nbsp;
+    <a href="https://www.facebook.com/fedco.grrz/" target="_blank">
+    <img src=./Images/Facebook.png alt=Facebook_Logo width="45" height="45" style="margin-bottom: 5px;" />
+    </a>
+    &nbsp;
     <a href="mailto:gutierrezfedericog@gmail.com" target="_blank">
-    <img src=https://img.shields.io/badge/gmail-%ff5851db.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-    </a>
+    <img src=./Images/Gmail.png alt=Gmail_Logo width="54" height="45" style="margin-bottom: 5px;" />
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 14/01/2025**
+**Última actualización - 14 de enero de 2025**
