@@ -18,40 +18,32 @@
 <h2 align="center">🛠️ Lenguajes de programación y herramientas 🛠️</h2>
 
 <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    </a>
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </a>
-    <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-165483?style=for-the-badge&logo=python&logoColor=white" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    </a>  
-    <a href="https://github.com/fedco-gtz" target="_blank">
-    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
-    </a> 
-    <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-5C3310?style=for-the-badge&logo=git&logoColor=white" />
-    </a>
-    <a href="https://handlebarsjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/handlebars.js-f0772b?style=for-the-badge&logo=handlebars.js&logoColor=white" />
-    </a> 
-    <a href="https://mongoosejs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Mongoose-990000?style=for-the-badge&logo=mongoose&logoColor=white" />
-    </a>
-    <a href="https://www.mongodb.com/es" target="_blank">
-    <img src="https://img.shields.io/badge/mongoDB-4cb61e?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </a> 
-<p>
+    <img src=./Images/Html.png alt=HTML5_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Css.png alt=CSS3_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Javascript.png alt=JavaScript_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Python.png alt=Python_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/React.png alt=React_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Bootstrap.png alt=Bootstrap_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Github.png alt=Github_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Git.png alt=Git_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Handlebars.png alt=Handlebars_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Mongodb.png alt=Mongodb_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Mongoose.png alt=Mongoose_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Nodejs.png alt=NodeJs_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Firebase.png alt=Firebase_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+</p>
 
 <h2 align="center">📚 Capacitaciones 📚 </h2>
 
@@ -151,4 +143,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 14 de enero de 2025**
+**Última actualización - 16 de enero de 2025**
