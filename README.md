@@ -38,11 +38,18 @@
     &nbsp;
     <img src=./Images/Mongodb.png alt=Mongodb_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
-    <img src=./Images/Mongoose.png alt=Mongoose_Logo width="60" height="60" style="margin-bottom: 5px;"/>
-    &nbsp;
     <img src=./Images/Nodejs.png alt=NodeJs_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
     <img src=./Images/Firebase.png alt=Firebase_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Sass.png alt=Sass_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Sql.png alt=Sql_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Sqlite.png alt=Squlite_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/OpenAI.png alt=OpenAI_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+
 </p>
 
 <h2 align="center">📚 Capacitaciones 📚 </h2>
@@ -81,7 +88,7 @@
 &nbsp;&nbsp;
 <img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
-[<img src="./Images/Music-Store.png" alt="Music-Store Logo" width="210" height="80">](https://fedco-gtz.github.io/MusicStore-Codo-a-Codo/)
+[<img src="./Images/Music-Store.png" alt="Music-Store Logo" width="80" height="80">](https://fedco-gtz.github.io/MusicStore-Codo-a-Codo/)
 &nbsp;&nbsp;
 <img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
@@ -106,6 +113,18 @@
 <img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
 [<img src="./Images/AdoptMe.png" alt="AdoptMe Logo" width="140" height="80">]()
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
+[<img src="./Images/Piedra-Papel-Tijera.png" alt="Piedra,-Papel-o-Tijera Logo" width="140" height="80">](https://colab.research.google.com/drive/1Py7hTg2NZOFlR9G61eru9vgv5vQN7xwK?usp=sharing)
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
+[<img src="./Images/Inventario.png" alt="Inventario-de-Prodcutos Logo" width="140" height="80">](https://colab.research.google.com/drive/1SPE_t6KUmc47hlfKxNBiU3PI5W20-HXK?usp=sharing)
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
+[<img src="./Images/Las-matemáticas-en-el-universo.png" alt="Las-matemáticas-en-el-universo Logo" width="80" height="80">](https://fedco-gtz.github.io/Fundamento-de-la-IA-Coderhouse/)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
@@ -143,4 +162,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 16 de enero de 2025**
+**Última actualización - 19 de enero de 2025**
