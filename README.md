@@ -72,7 +72,7 @@
 | [Programación Backend I: Desarrollo Avanzado de Backend](https://pub.coderhouse.com/legacy-certificates/66a4638e64c8734d4c85aa10?lang=es) | |
 | [Programación Backend II: Diseño y Arquitectura Backend](https://pub.coderhouse.com/legacy-certificates/66f5b32dd1c51d20ed892031?lang=es) | |
 | [Programación Backend III: Testing y Escalabilidad Backend](https://pub.coderhouse.com/legacy-certificates/67506c7b4ea27fc1cf1d02ef?lang=es) | |
-| [Fundamentos de Inteligencia Artificial]() | |
+| [Fundamentos de Inteligencia Artificial](https://pub.coderhouse.com/certificates/1edc3ff8-fff7-4f18-9b71-234e19d5ee31?v=1) | |
 | [Data Analytics]() | |
 | [Inteligencia Artificial: Generación de Prompts]() | |
 | [SQL Flex]() | |
@@ -166,4 +166,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 19 de enero de 2025**
+**Última actualización - 22 de enero de 2025**
