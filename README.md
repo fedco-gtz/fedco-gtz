@@ -129,6 +129,10 @@
 <img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
 [<img src="./Images/CAC-Movies.png" alt="CAC-Movies Logo" width="140" height="80">](https://cac-movie.onrender.com/)
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
+[<img src="./Images/MateAi.png" alt="MAteAi Logo" width="140" height="80">]()
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
