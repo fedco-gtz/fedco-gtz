@@ -9,7 +9,7 @@
 
 - 🧮 Profesor de Matemática
 
-- 👨🏼‍🏫 Estudiante de la `Carrera de Data Scientist` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://www.coderhouse.com/ar)
+- 👨🏼‍🏫 Estudiante de la `Carrera de Data Scientist` y `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://www.coderhouse.com/ar)
 
 - 📄 Conoce mis experiencias <a href="" target="blank">Curriculum Vitae</a>.
 <br/>
@@ -73,14 +73,18 @@
 | [Programación Backend II: Diseño y Arquitectura Backend](https://pub.coderhouse.com/legacy-certificates/66f5b32dd1c51d20ed892031?lang=es) | |
 | [Programación Backend III: Testing y Escalabilidad Backend](https://pub.coderhouse.com/legacy-certificates/67506c7b4ea27fc1cf1d02ef?lang=es) | |
 | [Fundamentos de Inteligencia Artificial](https://pub.coderhouse.com/certificates/1edc3ff8-fff7-4f18-9b71-234e19d5ee31?v=1) | |
-| [Data Analytics]() | |
 | [Inteligencia Artificial: Generación de Prompts]() | |
-| [SQL Flex]() | |
-| [Data Science I: Fundamentos para la Ciencia de Datos Flex]() | |
-| [Testing QA Manual Flex]() | |
-| [Data Science II: Machine Learning para la Ciencia de Datos Flex]() | |
-| [Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex]() | |
+| [SQL]() | |
+| [Testing QA Manual]() | |
+| [Data Analytics]() | |
+| [Data Science I: Fundamentos para la Ciencia de Datos]() | |
+| [Data Science II: Machine Learning para la Ciencia de Datos]() | |
+| [Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos]() | |
 | [Carrera de Data Scientist]() | |
+| [Excel]() | |
+| [Tableau]() | |
+| [Data Analytics]() | |
+| [Carrera de Data Analytics]() | |
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
@@ -132,7 +136,7 @@
 &nbsp;&nbsp;
 <img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
-[<img src="./Images/MateAi.png" alt="MAteAi Logo" width="140" height="80">]()
+[<img src="./Images/MateAi.png" alt="MAteAi Logo" width="160" height="80">]()
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
@@ -170,4 +174,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 22 de enero de 2025**
+**Última actualización - 13 de febrero de 2025**
