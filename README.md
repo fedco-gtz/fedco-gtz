@@ -136,7 +136,11 @@
 &nbsp;&nbsp;
 <img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
-[<img src="./Images/MateAi.png" alt="MAteAi Logo" width="160" height="80">]()
+[<img src="./Images/MateAi.png" alt="MateAi Logo" width="160" height="80">]()
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
+[<img src="./Images/Analisis.png" alt="Analisis Logo" width="80" height="80">]()
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
