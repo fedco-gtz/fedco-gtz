@@ -73,7 +73,7 @@
 | [Programación Backend II: Diseño y Arquitectura Backend](https://pub.coderhouse.com/legacy-certificates/66f5b32dd1c51d20ed892031?lang=es) | |
 | [Programación Backend III: Testing y Escalabilidad Backend](https://pub.coderhouse.com/legacy-certificates/67506c7b4ea27fc1cf1d02ef?lang=es) | |
 | [Fundamentos de Inteligencia Artificial](https://pub.coderhouse.com/certificates/1edc3ff8-fff7-4f18-9b71-234e19d5ee31?v=1) | |
-| [Inteligencia Artificial: Generación de Prompts]() | |
+| [Inteligencia Artificial: Generación de Prompts](https://pub.coderhouse.com/certificates/b9447d09-9e47-4efb-b76d-cbab513f5fa7?v=1) | |
 | [SQL]() | |
 | [Testing QA Manual]() | |
 | [Data Analytics]() | |
@@ -136,7 +136,7 @@
 &nbsp;&nbsp;
 <img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
-[<img src="./Images/MateAi.png" alt="MateAi Logo" width="160" height="80">]()
+[<img src="./Images/MateAi.png" alt="MateAi Logo" width="195" height="80">](https://colab.research.google.com/drive/1JsyNmZDCF7ltf0AR-tSe_SIdLrZXmjxk?usp=sharing)
 &nbsp;&nbsp;
 <img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
@@ -178,4 +178,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 13 de febrero de 2025**
+**Última actualización - 27 de febrero de 2025**
