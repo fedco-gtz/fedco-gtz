@@ -140,7 +140,10 @@
 &nbsp;&nbsp;
 <img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
-[<img src="./Images/Analisis.png" alt="Analisis Logo" width="80" height="80">]()
+[<img src="./Images/VIALDATA.png" alt="VIALDATA Logo" width="140" height="80">](https://drive.google.com/file/d/1P49jY6lYixVALo6t0nyOfVTb1SFhDCm4/view?usp=sharing)
+&nbsp;&nbsp;
+<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
+&nbsp;&nbsp;
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
