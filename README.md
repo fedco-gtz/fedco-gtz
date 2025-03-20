@@ -11,7 +11,7 @@
 
 - 👨🏼‍🏫 Estudiante de la `Carrera de Data Scientist` y `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://www.coderhouse.com/ar)
 
-- 📄 Conoce mis experiencias <a href="" target="blank">Curriculum Vitae</a>.
+- 📄 Conoce mis experiencias en mi<a href="fedco-gtz.github.io/Portfolio/" target="blank">Portfolio</a>.
 <br/>
 
 
@@ -49,6 +49,8 @@
     <img src=./Images/Sqlite.png alt=Squlite_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
     <img src=./Images/OpenAI.png alt=OpenAI_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/PowerBI.png alt=PowerBI_Logo width="60" height="60" style="margin-bottom: 5px;"/>
 
 </p>
 
@@ -76,7 +78,7 @@
 | [Inteligencia Artificial: Generación de Prompts](https://pub.coderhouse.com/certificates/b9447d09-9e47-4efb-b76d-cbab513f5fa7?v=1) | |
 | [SQL]() | |
 | [Testing QA Manual]() | |
-| [Data Analytics]() | |
+| [Data Analytics](https://pub.coderhouse.com/certificates/04a00609-e6f4-4718-9cd0-80a97f114102?v=1) | |
 | [Data Science I: Fundamentos para la Ciencia de Datos]() | |
 | [Data Science II: Machine Learning para la Ciencia de Datos]() | |
 | [Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos]() | |
@@ -181,4 +183,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 27 de febrero de 2025**
+**Última actualización - 19 de marzo de 2025**
