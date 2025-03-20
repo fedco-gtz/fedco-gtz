@@ -11,7 +11,7 @@
 
 - 👨🏼‍🏫 Estudiante de la `Carrera de Data Scientist` y `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://www.coderhouse.com/ar)
 
-- 📄 Conoce mis experiencias en mi<a href="fedco-gtz.github.io/Portfolio/" target="blank">Portfolio</a>.
+- 📄 Conoce mis experiencias en mi <a href="https://fedco-gtz.github.io/Portfolio/" target="blank">Portfolio</a>.
 <br/>
 
 
