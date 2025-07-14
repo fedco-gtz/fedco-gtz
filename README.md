@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 <br> Soy Federico G. Gutierrez</a></h1>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=fedco-gtz&label=Vista%20de%20Perfil&color=0e75b6&style=flat" alt="FedericoGutierrez" /> 
-    <img src="https://img.shields.io/badge/Edad-31-blue" alt="Edad">
+    <img src="https://img.shields.io/badge/Edad-32-blue" alt="Edad">
     <img src="https://img.shields.io/badge/Vivo-Argentina-success" />
 </p>
 
@@ -9,11 +9,7 @@
 
 - 🧮 Profesor de Matemática
 
-- 👨🏼‍🏫 Estudiante de la ``Carrera de Data Scientist`` y ``Carrera de Data Analytics`` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://www.coderhouse.com/ar)
-
-- 📄 Conoce mis experiencias en mi <a href="https://fedco-gtz.github.io/Portfolio/" target="blank">Portfolio</a>.
-<br/>
-
+- 👨🏼‍🏫 Estudiante de la `Carrera de Data Scientist` y `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://www.coderhouse.com/ar)
 
 <h2 align="center">🛠️ Lenguajes de programación y herramientas 🛠️</h2>
 
