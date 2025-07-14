@@ -128,67 +128,35 @@
 
 [<img src="./Images/Casamiento.png" alt="Casamiento Logo" width="140" height="80">](https://fedco-gtz.github.io/Nos-Casamos-Ger-y-Gabi/)
 &nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
-&nbsp;&nbsp;
 [<img src="./Images/Music-Store.png" alt="Music-Store Logo" width="80" height="80">](https://fedco-gtz.github.io/MusicStore-Codo-a-Codo/)
-&nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
 [<img src="./Images/Mascotas-Felices.png" alt="Mascotas-Felices Logo" width="80" height="80">](https://mascotas-felices.netlify.app/)
 &nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
-&nbsp;&nbsp;
 [<img src="./Images/VuelaSmart.png" alt="VuelaSmart Logo" width="115" height="80">](https://vuelasmart.netlify.app/)
-&nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
 [<img src="./Images/ZapaTienda.png" alt="ZapaTienda Logo" width="80" height="80">](https://zapatienda.vercel.app/)
 &nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
-&nbsp;&nbsp;
 [<img src="./Images/Funko-Paradise.png" alt="Funko-Paradise Logo" width="140" height="80">](https://funkoparadise.vercel.app/)
-&nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
 [<img src="./Images/Verde-Vital.png" alt="Verde-Vital Logo" width="130" height="80">]()
 &nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
-&nbsp;&nbsp;
 [<img src="./Images/AdoptMe.png" alt="AdoptMe Logo" width="140" height="80">]()
-&nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
 [<img src="./Images/Piedra-Papel-Tijera.png" alt="Piedra,-Papel-o-Tijera Logo" width="140" height="80">](https://colab.research.google.com/drive/1Py7hTg2NZOFlR9G61eru9vgv5vQN7xwK?usp=sharing)
 &nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
-&nbsp;&nbsp;
 [<img src="./Images/Inventario.png" alt="Inventario-de-Prodcutos Logo" width="140" height="80">](https://colab.research.google.com/drive/1SPE_t6KUmc47hlfKxNBiU3PI5W20-HXK?usp=sharing)
-&nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
 [<img src="./Images/Las-matemáticas-en-el-universo.png" alt="Las-matemáticas-en-el-universo Logo" width="80" height="80">](https://fedco-gtz.github.io/Fundamento-de-la-IA-Coderhouse/)
 &nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
-&nbsp;&nbsp;
 [<img src="./Images/CAC-Movies.png" alt="CAC-Movies Logo" width="140" height="80">](https://cac-movie.onrender.com/)
-&nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
 [<img src="./Images/MateAi.png" alt="MateAi Logo" width="195" height="80">](https://colab.research.google.com/drive/1JsyNmZDCF7ltf0AR-tSe_SIdLrZXmjxk?usp=sharing)
 &nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
-&nbsp;&nbsp;
 [<img src="./Images/VIALDATA.png" alt="VIALDATA Logo" width="140" height="80">](https://drive.google.com/file/d/1P49jY6lYixVALo6t0nyOfVTb1SFhDCm4/view?usp=sharing)
-&nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
 [<img src="./Images/ChiquiCoins.png" alt="ChiquiCoins Logo" width="80" height="80">](https://chiquicoins.onrender.com/)
 &nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
-&nbsp;&nbsp;
 [<img src="./Images/SchoolScope.png" alt="School Scope Logo" width="85" height="80">](https://colab.research.google.com/drive/14D3ABsDj0ZjQhi6hiL94olQ5KK54vD7p?usp=sharing)
-&nbsp;&nbsp;
-<img src="./Images/Linea-Vertical.png" alt="Linea" width="20" height="80">
 &nbsp;&nbsp;
 [<img src="./Images/Aflix.png" alt="Aflix Logo" width="70" height="80">](https://drive.google.com/drive/folders/10Po12O7J7zfn---XuybE1knFxp1lTGji?usp=sharing)
 
