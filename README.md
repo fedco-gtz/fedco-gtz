@@ -9,7 +9,7 @@
 
 - 🧮 Profesor de Matemática
 
-- 👨🏼‍🏫 Estudiante de la `Carrera de Data Scientist` y `Carrera de Data Analytics` en &nbsp;&nbsp;<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">(https://www.coderhouse.com/ar)
+- 👨🏼‍🏫 Estudiante de la `Carrera de Data Scientist` y `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://www.coderhouse.com/ar)
 
 <h2 align="center">🛠️ Lenguajes de programación y herramientas 🛠️</h2>
 
