@@ -138,6 +138,7 @@
 &nbsp;&nbsp;
 [<img src="./Images/Funko-Paradise.png" alt="Funko-Paradise Logo" width="140" height="80">](https://funkoparadise.vercel.app/)
 &nbsp;&nbsp;
+
 [<img src="./Images/Verde-Vital.png" alt="Verde-Vital Logo" width="130" height="80">]()
 &nbsp;&nbsp;
 [<img src="./Images/AdoptMe.png" alt="AdoptMe Logo" width="140" height="80">]()
@@ -150,6 +151,7 @@
 &nbsp;&nbsp;
 [<img src="./Images/CAC-Movies.png" alt="CAC-Movies Logo" width="140" height="80">](https://cac-movie.onrender.com/)
 &nbsp;&nbsp;
+
 [<img src="./Images/MateAi.png" alt="MateAi Logo" width="195" height="80">](https://colab.research.google.com/drive/1JsyNmZDCF7ltf0AR-tSe_SIdLrZXmjxk?usp=sharing)
 &nbsp;&nbsp;
 [<img src="./Images/VIALDATA.png" alt="VIALDATA Logo" width="140" height="80">](https://drive.google.com/file/d/1P49jY6lYixVALo6t0nyOfVTb1SFhDCm4/view?usp=sharing)
