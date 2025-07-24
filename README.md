@@ -141,6 +141,8 @@
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
+<p align="center">
+
 [<img src="./Images/Casamiento.png" alt="Casamiento Logo" width="140" height="80">](https://fedco-gtz.github.io/Nos-Casamos-Ger-y-Gabi/)
 &nbsp;&nbsp;
 [<img src="./Images/Music-Store.png" alt="Music-Store Logo" width="80" height="80">](https://fedco-gtz.github.io/MusicStore-Codo-a-Codo/)
@@ -178,6 +180,8 @@
 [<img src="./Images/PokéApi.png" alt="Testeando PokéApi Logo" width="80" height="80">](https://drive.google.com/file/d/1FqN0782ckhoyeLg1jG4ZEin2AQtd8fDV/view?usp=drive_link)
 &nbsp;&nbsp;
 [<img src="./Images/InformeDeRendimiento.png" alt="Informe de Rendimiento - Prueba de Stress Logo" width="200" height="80">](https://drive.google.com/file/d/1OhixgZNQiZ2SxfNxJs_i-Yui_IXoTlzV/view?usp=drive_link)
+
+</p>
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
