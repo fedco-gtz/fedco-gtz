@@ -124,6 +124,21 @@
 
 ---
 
+### ✨ Alura LATAM
+- [Aprender a aprender: técnicas para tu autodesarrollo](https://app.aluracursos.com/certificate/c081a1ef-595e-463b-a618-68b4eedf8d31?lang)
+- [Lógica de programación: sumérgete en la programación con JavaScript](https://app.aluracursos.com/certificate/d68b8613-59a9-44e8-943a-51773a2b16c5?lang)
+- [Lógica de programación: explorar funciones y listas](https://http.cat/401)
+- [Git y GitHub: repositorio, commit y versiones](https://http.cat/401)
+- [Practicando Lógica de Programación: Challenge Amigo secreto](https://http.cat/401)
+- [IA: explorando el potencial de la Inteligencia Artificial Generativa](https://http.cat/401)
+- [Ingeniería de Prompt: creando prompts eficaces para la IA generativa](https://http.cat/401)
+- [HTML y CSS: ambientes de desarrollo, estructura de archivos y tags](https://http.cat/401)
+- [HTML y CSS: Clases, Posicionamiento y Flexbox](https://http.cat/401)
+- [HTML y CSS: header, footer y variables CSS](https://http.cat/401)
+- [HTML y CSS: trabajando con responsividad y publicación de proyectos](https://http.cat/401)
+
+---
+
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
 [<img src="./Images/Casamiento.png" alt="Casamiento Logo" width="140" height="80">](https://fedco-gtz.github.io/Nos-Casamos-Ger-y-Gabi/)
@@ -178,6 +193,8 @@
 <img src="./Images/Santander-Open-Academy.png" alt="Santander-Open-Academy Logo" width="120" height="120">
 &nbsp;&nbsp;
 <img src="./Images/Coderhouse.png" alt="Coderhouse Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/Alura.png" alt="Alura LATAM Logo" width="120" height="120">
 </p>
 
 <h2 align="center">📫 Contactame en 📫</h2>
@@ -196,4 +213,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 23 de julio de 2025**
+**Última actualización - 24 de julio de 2025**
