@@ -92,7 +92,7 @@
 - [Programación Backend II](https://pub.coderhouse.com/legacy-certificates/66f5b32dd1c51d20ed892031?lang=es)
 - [Programación Backend III](https://pub.coderhouse.com/legacy-certificates/67506c7b4ea27fc1cf1d02ef?lang=es)
 - [SQL](https://pub.coderhouse.com/certificates/d10ebff2-8095-4164-8165-5ec7f5281f9f?v=1)
-- [Testing QA Manual]()
+- [Testing QA Manual](https://pub.coderhouse.com/certificates/b94e5a69-0542-47a6-847e-5211549e2410?v=1)
 
 **Inteligencia Artificial**
 - [Fundamentos de Inteligencia Artificial](https://pub.coderhouse.com/certificates/1edc3ff8-fff7-4f18-9b71-234e19d5ee31?v=1)
@@ -101,18 +101,18 @@
 **Ciencias de Datos**
 - [Data Analytics](https://pub.coderhouse.com/certificates/04a00609-e6f4-4718-9cd0-80a97f114102?v=1)
 - [Data Science I: Fundamentos de la Ciencia de Datos](https://pub.coderhouse.com/certificates/d24a529e-67cb-4fba-80bb-9d755e0d9e41?v=1)
-- [Data Science II: Machine Learning para la Ciencia de Datos]()
-- [Data Science III: NLP & Deep Learning aplicado a la Ciencia de Datos]()
-- [Carrera de Data Scientist]()
+- [Data Science II: Machine Learning para la Ciencia de Datos](https://http.cat/401)
+- [Data Science III: NLP & Deep Learning aplicado a la Ciencia de Datos](https://http.cat/401)
+- [Carrera de Data Scientist](https://http.cat/401)
 
 **Academia de Inglés**
-- [Inglés para el mundo digital - Nivel Elementary]()
+- [Inglés para el mundo digital - Nivel Elementary](https://http.cat/401)
 
 **Análisis de Datos**
-- [Excel]()
-- [Tableau]()
-- [Data Analytics]()
-- [Carrera de Data Analytics]()
+- [Excel](https://http.cat/401)
+- [Tableau](https://http.cat/401)
+- [Data Analytics](https://http.cat/401)
+- [Carrera de Data Analytics](https://http.cat/401)
 
 ---
 
@@ -159,6 +159,10 @@
 [<img src="./Images/SchoolScope.png" alt="School Scope Logo" width="85" height="80">](https://colab.research.google.com/drive/14D3ABsDj0ZjQhi6hiL94olQ5KK54vD7p?usp=sharing)
 &nbsp;&nbsp;
 [<img src="./Images/Aflix.png" alt="Aflix Logo" width="70" height="80">](https://drive.google.com/drive/folders/10Po12O7J7zfn---XuybE1knFxp1lTGji?usp=sharing)
+&nbsp;&nbsp;
+[<img src="./Images/PokéApi.png" alt="Testeando PokéApi Logo" width="80" height="80">](https://drive.google.com/file/d/1FqN0782ckhoyeLg1jG4ZEin2AQtd8fDV/view?usp=drive_link)
+&nbsp;&nbsp;
+[<img src="./Images/InformeDeRendimiento.png" alt="Informe de Rendimiento - Prueba de Stress Logo" width="200" height="80">](https://drive.google.com/file/d/1OhixgZNQiZ2SxfNxJs_i-Yui_IXoTlzV/view?usp=drive_link)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
@@ -192,4 +196,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 13 de julio de 2025**
+**Última actualización - 23 de julio de 2025**
