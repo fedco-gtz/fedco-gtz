@@ -126,6 +126,9 @@
 
 ### ✨ Alura LATAM
 - [Aprender a aprender: técnicas para tu autodesarrollo](https://app.aluracursos.com/certificate/c081a1ef-595e-463b-a618-68b4eedf8d31?lang)
+- [Hábitos: Ser productivo para cumplir sus metas personales](https://app.aluracursos.com/certificate/b75b4aa7-d1c5-4a85-94ff-85f705fa8705?lang)
+- [Foco: Enfocarse trae más resultados para el día a día](https://app.aluracursos.com/certificate/8898bb6c-2cd6-4386-8545-27d4f3910700?lang)
+- [LinkedIn para profesionales: construye tu marca y genera oportunidades](https://app.aluracursos.com/certificate/cc764e5b-df27-42c3-9334-719b376dc5f7?lang)
 - [Lógica de programación: sumérgete en la programación con JavaScript](https://app.aluracursos.com/certificate/d68b8613-59a9-44e8-943a-51773a2b16c5?lang)
 - [Lógica de programación: explorar funciones y listas](https://http.cat/401)
 - [Git y GitHub: repositorio, commit y versiones](https://http.cat/401)
@@ -140,8 +143,6 @@
 ---
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
-
-<p align="center">
 
 [<img src="./Images/Casamiento.png" alt="Casamiento Logo" width="140" height="80">](https://fedco-gtz.github.io/Nos-Casamos-Ger-y-Gabi/)
 &nbsp;&nbsp;
@@ -180,8 +181,6 @@
 [<img src="./Images/PokéApi.png" alt="Testeando PokéApi Logo" width="80" height="80">](https://drive.google.com/file/d/1FqN0782ckhoyeLg1jG4ZEin2AQtd8fDV/view?usp=drive_link)
 &nbsp;&nbsp;
 [<img src="./Images/InformeDeRendimiento.png" alt="Informe de Rendimiento - Prueba de Stress Logo" width="200" height="80">](https://drive.google.com/file/d/1OhixgZNQiZ2SxfNxJs_i-Yui_IXoTlzV/view?usp=drive_link)
-
-</p>
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
