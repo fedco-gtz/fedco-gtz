@@ -125,14 +125,24 @@
 ---
 
 ### ✨ Alura LATAM
-- [Aprender a aprender: técnicas para tu autodesarrollo](https://app.aluracursos.com/certificate/c081a1ef-595e-463b-a618-68b4eedf8d31?lang)
-- [Hábitos: Ser productivo para cumplir sus metas personales](https://app.aluracursos.com/certificate/b75b4aa7-d1c5-4a85-94ff-85f705fa8705?lang)
-- [Foco: Enfocarse trae más resultados para el día a día](https://app.aluracursos.com/certificate/8898bb6c-2cd6-4386-8545-27d4f3910700?lang)
-- [LinkedIn para profesionales: construye tu marca y genera oportunidades](https://app.aluracursos.com/certificate/cc764e5b-df27-42c3-9334-719b376dc5f7?lang)
+**Lógica de Programación**
 - [Lógica de programación: sumérgete en la programación con JavaScript](https://app.aluracursos.com/certificate/d68b8613-59a9-44e8-943a-51773a2b16c5?lang)
-- [Lógica de programación: explorar funciones y listas](https://http.cat/401)
-- [Git y GitHub: repositorio, commit y versiones](https://http.cat/401)
-- [Practicando Lógica de Programación: Challenge Amigo secreto](https://http.cat/401)
+- [Lógica de programación: explorar funciones y listas](https://app.aluracursos.com/certificate/fe23c0c2-844f-4757-88a0-2bd00a4972a1?lang)
+- [Git y GitHub: repositorio, commit y versiones](https://app.aluracursos.com/certificate/d44f57ac-4e40-4f21-91cd-cd11b6d0c56a?lang)
+- [Practicando Lógica de Programación: Challenge Amigo secreto](https://app.aluracursos.com/certificate/84092f4e-198b-4603-9b37-2db5012c1825?lang)
+
+**Aprendizajes**
+- [Aprender a aprender: técnicas para tu autodesarrollo](https://app.aluracursos.com/certificate/c081a1ef-595e-463b-a618-68b4eedf8d31?lang)
+
+**Marketing Personal**
+- [LinkedIn para profesionales: construye tu marca y genera oportunidades](https://app.aluracursos.com/certificate/cc764e5b-df27-42c3-9334-719b376dc5f7?lang)
+
+**Productividad y Calidad de Vida**
+- [Foco: Enfocarse trae más resultados para el día a día](https://app.aluracursos.com/certificate/8898bb6c-2cd6-4386-8545-27d4f3910700?lang)
+- [Hábitos: Ser productivo para cumplir sus metas personales](https://app.aluracursos.com/certificate/b75b4aa7-d1c5-4a85-94ff-85f705fa8705?lang)
+
+
+
 - [IA: explorando el potencial de la Inteligencia Artificial Generativa](https://http.cat/401)
 - [Ingeniería de Prompt: creando prompts eficaces para la IA generativa](https://http.cat/401)
 - [HTML y CSS: ambientes de desarrollo, estructura de archivos y tags](https://http.cat/401)
@@ -181,6 +191,8 @@
 [<img src="./Images/PokéApi.png" alt="Testeando PokéApi Logo" width="80" height="80">](https://drive.google.com/file/d/1FqN0782ckhoyeLg1jG4ZEin2AQtd8fDV/view?usp=drive_link)
 &nbsp;&nbsp;
 [<img src="./Images/InformeDeRendimiento.png" alt="Informe de Rendimiento - Prueba de Stress Logo" width="200" height="80">](https://drive.google.com/file/d/1OhixgZNQiZ2SxfNxJs_i-Yui_IXoTlzV/view?usp=drive_link)
+&nbsp;&nbsp;
+[<img src="./Images/Sorteo.png" alt="Sorteo de Amigo Secreto Logo" width="80" height="80">](https://fedco-gtz.github.io/Challenge-Amigo-secreto/)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
