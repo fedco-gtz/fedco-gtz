@@ -130,6 +130,8 @@
 - [Lógica de programación: explorar funciones y listas](https://app.aluracursos.com/certificate/fe23c0c2-844f-4757-88a0-2bd00a4972a1?lang)
 - [Git y GitHub: repositorio, commit y versiones](https://app.aluracursos.com/certificate/d44f57ac-4e40-4f21-91cd-cd11b6d0c56a?lang)
 - [Practicando Lógica de Programación: Challenge Amigo secreto](https://app.aluracursos.com/certificate/84092f4e-198b-4603-9b37-2db5012c1825?lang)
+- [IA: explorando el potencial de la Inteligencia Artificial Generativa](https://app.aluracursos.com/certificate/d5f2b90f-a7f8-4efb-a6d5-92b6a0adb40a?lang)
+- [Ingeniería de Prompt: creando prompts eficaces para la IA generativa](https://app.aluracursos.com/certificate/68045e66-c905-4d94-b852-d062bf6be19f?lang)
 
 **Aprendizajes**
 - [Aprender a aprender: técnicas para tu autodesarrollo](https://app.aluracursos.com/certificate/c081a1ef-595e-463b-a618-68b4eedf8d31?lang)
@@ -142,9 +144,7 @@
 - [Hábitos: Ser productivo para cumplir sus metas personales](https://app.aluracursos.com/certificate/b75b4aa7-d1c5-4a85-94ff-85f705fa8705?lang)
 
 
-
-- [IA: explorando el potencial de la Inteligencia Artificial Generativa](https://http.cat/401)
-- [Ingeniería de Prompt: creando prompts eficaces para la IA generativa](https://http.cat/401)
+---
 - [HTML y CSS: ambientes de desarrollo, estructura de archivos y tags](https://http.cat/401)
 - [HTML y CSS: Clases, Posicionamiento y Flexbox](https://http.cat/401)
 - [HTML y CSS: header, footer y variables CSS](https://http.cat/401)
@@ -228,4 +228,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 24 de julio de 2025**
+**Última actualización - 25 de julio de 2025**
