@@ -11,6 +11,8 @@
 
 - 👨🏼‍🏫 Estudiante de la `Carrera de Data Scientist` y `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://www.coderhouse.com/ar)
 
+- 🗂️ Accede a mi [`Portfolio Personal`](https://fedco-gtz.github.io/Portfolio/)
+
 <h2 align="center">🛠️ Lenguajes de programación y herramientas 🛠️</h2>
 
 <p align="center">
@@ -67,11 +69,11 @@
 ---
 
 ### 💎 Lumetrio
-- [Introducción a la Programación](https://lumetrio.com/certificado/2086142bcefd37c4017a8)
-- [Programación Frontend](https://lumetrio.com/certificado/20862bcbb1bcd3cf835db)
-- [Python](https://lumetrio.com/certificado/20865d3165b9228fa0c96)
-- [React](https://lumetrio.com/certificado/2086729e93aab4bd650fd)
-- [Git y Github](https://lumetrio.com/certificado/20864454c6075c8b691d9)
+- [Introducción a la Programación](https://drive.google.com/file/d/1qM11ZnACJECziVGvYOQxkq2wPwecFa__/view?usp=sharing)
+- [Programación Frontend](https://drive.google.com/file/d/1OHTqBx_DZWGKXOU-r1SgwYlW3X8UjAr9/view?usp=sharing)
+- [Python](https://drive.google.com/file/d/1sXe6RLXMNM8Y6rdPhCyferERcLFiYWMA/view?usp=sharing)
+- [React](https://drive.google.com/file/d/1ghtuN_Ipzr4gWoJCQJ2vrZeD9N4BzlBk/view?usp=sharing)
+- [Git y Github](https://drive.google.com/file/d/1m2wyYarvWTBGiY3KJcAJ2ytHGm7zXPAg/view?usp=sharing)
 
 ---
 
@@ -158,9 +160,9 @@
 &nbsp;&nbsp;
 [<img src="./Images/Funko-Paradise.png" alt="Funko-Paradise Logo" width="140" height="80">](https://funkoparadise.vercel.app/)
 &nbsp;&nbsp;
-[<img src="./Images/Verde-Vital.png" alt="Verde-Vital Logo" width="130" height="80">]()
+[<img src="./Images/Verde-Vital.png" alt="Verde-Vital Logo" width="130" height="80">](https://github.com/fedco-gtz/Backend-III-Coderhouse)
 &nbsp;&nbsp;
-[<img src="./Images/AdoptMe.png" alt="AdoptMe Logo" width="140" height="80">]()
+[<img src="./Images/AdoptMe.png" alt="AdoptMe Logo" width="140" height="80">](https://github.com/fedco-gtz/RecursosBackend-Adoptme)
 &nbsp;&nbsp;
 [<img src="./Images/Piedra-Papel-Tijera.png" alt="Piedra,-Papel-o-Tijera Logo" width="140" height="80">](https://colab.research.google.com/drive/1Py7hTg2NZOFlR9G61eru9vgv5vQN7xwK?usp=sharing)
 &nbsp;&nbsp;
@@ -220,4 +222,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 26 de julio de 2025**
+**Última actualización - 01 de agosto de 2025**
