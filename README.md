@@ -187,6 +187,8 @@
 [<img src="./Images/InformeDeRendimiento.png" alt="Informe de Rendimiento - Prueba de Stress Logo" width="200" height="80">](https://drive.google.com/file/d/1OhixgZNQiZ2SxfNxJs_i-Yui_IXoTlzV/view?usp=drive_link)
 &nbsp;&nbsp;
 [<img src="./Images/Sorteo.png" alt="Sorteo de Amigo Secreto Logo" width="80" height="80">](https://fedco-gtz.github.io/Challenge-Amigo-secreto/)
+&nbsp;&nbsp;
+[<img src="./Images/Portfolio.png.png" alt="FedeDev Logo" width="80" height="80">](https://fedco-gtz.github.io/Portfolio/)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
