@@ -190,6 +190,8 @@
 [<img src="./Images/Sorteo.png" alt="Sorteo de Amigo Secreto Logo" width="80" height="80">](https://fedco-gtz.github.io/Challenge-Amigo-secreto/)
 &nbsp;&nbsp;
 [<img src="./Images/Portfolio.png" alt="FedeDev Logo" width="80" height="80">](https://fedco-gtz.github.io/Portfolio/)
+&nbsp;&nbsp;
+[<img src="./Images/Tierra.png" alt="Cuando la tierra habla Logo" width="80" height="80">](https://drive.google.com/file/d/1-h1U2pUoIitxmga2NzB5875kZlm8LaLE/view?usp=sharing)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
