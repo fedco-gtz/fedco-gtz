@@ -192,6 +192,8 @@
 [<img src="./Images/Portfolio.png" alt="FedeDev Logo" width="80" height="80">](https://fedco-gtz.github.io/Portfolio/)
 &nbsp;&nbsp;
 [<img src="./Images/Tierra.png" alt="Cuando la tierra habla Logo" width="80" height="80">](https://drive.google.com/file/d/1-h1U2pUoIitxmga2NzB5875kZlm8LaLE/view?usp=sharing)
+&nbsp;&nbsp;
+[<img src="./Images/Directorio.png" alt="Directorio Escuela Logo" width="160" height="80">](https://fedco-gtz.github.io/Directorio-Escuelas/index.html)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
@@ -227,4 +229,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 01 de agosto de 2025**
+**Última actualización - 11 de agosto de 2025**
