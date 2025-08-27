@@ -82,6 +82,7 @@
 - [BackEnd Node JS](https://drive.google.com/file/d/1L46wTK7QcFp6lzWnDXjxGAYi7Epablus/view?usp=sharing)
 - [Iniciación a la Programación con Python](https://drive.google.com/file/d/1eLMbjnwjVip6VpYYJrvgT7-ySJjnAPiX/view?usp=sharing)
 - [Business Intelligence](https://http.cat/401)
+- [Introducción a la IA](https://drive.google.com/file/d/1uFuRRriHB7-G5EpCiEGFtA8RK56ekaJ6/view?usp=sharing)
 
 ---
 
@@ -229,4 +230,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 11 de agosto de 2025**
+**Última actualización - 27 de agosto de 2025**
