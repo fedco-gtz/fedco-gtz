@@ -195,6 +195,8 @@
 [<img src="./Images/Tierra.png" alt="Cuando la tierra habla Logo" width="80" height="80">](https://drive.google.com/file/d/1-h1U2pUoIitxmga2NzB5875kZlm8LaLE/view?usp=sharing)
 &nbsp;&nbsp;
 [<img src="./Images/Directorio.png" alt="Directorio Escuela Logo" width="160" height="80">](https://fedco-gtz.github.io/Directorio-Escuelas/index.html)
+&nbsp;&nbsp;
+[<img src="./Images/Secreto.png" alt="Nuestro Secreto Logo" width="95" height="80">](https://nuestro-secreto.vercel.app/)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
@@ -230,4 +232,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 27 de agosto de 2025**
+**Última actualización - 31 de agosto de 2025**
