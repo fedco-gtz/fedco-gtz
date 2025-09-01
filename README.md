@@ -152,7 +152,7 @@
 
 [<img src="./Images/Casamiento.png" alt="Casamiento Logo" width="140" height="80">](https://fedco-gtz.github.io/Nos-Casamos-Ger-y-Gabi/)
 &nbsp;&nbsp;
-[<img src="./Images/Music-Store.png" alt="Music-Store Logo" width="80" height="80">](https://fedco-gtz.github.io/MusicStore-Codo-a-Codo/)
+[<img src="./Images/Music-Store.png" alt="Music-Store Logo" width="80" height="80">](https://musictore.netlify.app/)
 &nbsp;&nbsp;
 [<img src="./Images/Mascotas-Felices.png" alt="Mascotas-Felices Logo" width="80" height="80">](https://mascotas-felices.netlify.app/)
 &nbsp;&nbsp;
@@ -232,4 +232,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 31 de agosto de 2025**
+**Última actualización - 01 de septiembre de 2025**
