@@ -105,12 +105,12 @@
 **Ciencias de Datos**
 - [Data Analytics](https://pub.coderhouse.com/certificates/04a00609-e6f4-4718-9cd0-80a97f114102?v=1)
 - [Data Science I: Fundamentos de la Ciencia de Datos](https://pub.coderhouse.com/certificates/d24a529e-67cb-4fba-80bb-9d755e0d9e41?v=1)
-- [Data Science II: Machine Learning para la Ciencia de Datos](https://http.cat/401)
+- [Data Science II: Machine Learning para la Ciencia de Datos](https://pub.coderhouse.com/certificates/5401bdf4-1b74-4b5d-8ae0-c16ca44b3a6e?v=1)
 - [Data Science III: NLP & Deep Learning aplicado a la Ciencia de Datos](https://http.cat/401)
 - [Carrera de Data Scientist](https://http.cat/401)
 
 **Academia de Inglés**
-- [Inglés para el mundo digital - Nivel Elementary](https://http.cat/401)
+- [Inglés para el mundo digital - Nivel Elementary](https://pub.coderhouse.com/legacy-certificates/68ee55456c260acf0d8f9cb9?lang=es)
 
 **Análisis de Datos**
 - [Excel](https://http.cat/401)
@@ -147,6 +147,22 @@
 - [HTML y CSS: Clases, Posicionamiento y Flexbox](https://app.aluracursos.com/certificate/3372e2e9-b1e3-4225-a322-a3684d9abae3?lang)
 - [HTML y CSS: header, footer y variables CSS](https://app.aluracursos.com/certificate/31ba4bfc-55c8-40f9-9e6f-ef139ac6eb53?lang)
 - [HTML y CSS: trabajando con responsividad y publicación de proyectos](https://app.aluracursos.com/certificate/b1f65580-c5fd-47a7-af13-df3dd347d0d6?lang)
+
+**Emprendimiento, Agilidad y Protagonismo Profesional G9 - ONE**
+- [Desarrollo de carrera: demanda del mercado](https://app.aluracursos.com/certificate/a830a3d2-7aa0-44fb-bc48-c50d122613df)
+- [Propósito profesional: ser el protagonista de tu carrera](https://app.aluracursos.com/certificate/a2b6d8fc-009d-4ab7-8a10-d7e20967c8e4)
+- [Transición de carrera: una guía al campo de tecnología](https://app.aluracursos.com/certificate/625cae3a-e51e-4f68-a1e9-eb476c3d25ac)
+- [Fundamentos de Agilidad: Primeros pasos para la transformación ágil](https://app.aluracursos.com/certificate/6cbca069-44d9-4378-aec0-2446209a5fe4)
+- [Emprendimiento: De la idea al plan de negocios](https://app.aluracursos.com/certificate/07b6deec-5902-44e5-80b3-0cdd4364dc95)
+
+**Fundamentos de Python y Datos G9 - ONE**
+- [Python para Data Science: primeros pasos](https://app.aluracursos.com/certificate/93deb861-ff2e-41ca-8810-f658139b63fb)
+- [Practicando Python: condicionales if, elif y else](https://app.aluracursos.com/certificate/79a2da17-f79f-4829-8259-0a780472e047)
+- [Practicando Python: bucles for y while](https://app.aluracursos.com/certificate/322242a3-9547-4154-9ee4-13175663f3fd)
+- [Python para Data Science: trabajar con funciones, estructuras de datos y excepciones](https://http.cat/401)
+- [Pandas: conociendo la biblioteca](https://http.cat/401)
+- [Practicando Python para Data Science: Challenge Alura Store](https://http.cat/401)
+- [Modelado de bases de datos: entidades, relaciones y atributos](https://http.cat/401)
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
@@ -232,4 +248,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 01 de septiembre de 2025**
+**Última actualización - 16 de octubre de 2025**
