@@ -101,6 +101,7 @@
 **Inteligencia Artificial**
 - [Fundamentos de Inteligencia Artificial](https://pub.coderhouse.com/certificates/1edc3ff8-fff7-4f18-9b71-234e19d5ee31?v=1)
 - [Generación de Prompts con IA](https://pub.coderhouse.com/certificates/b9447d09-9e47-4efb-b76d-cbab513f5fa7?v=1)
+- [IA Automation](https://http.cat/401)
 
 **Ciencias de Datos**
 - [Data Analytics](https://pub.coderhouse.com/certificates/04a00609-e6f4-4718-9cd0-80a97f114102?v=1)
