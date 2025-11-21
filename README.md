@@ -50,17 +50,17 @@
     &nbsp;
     <img src=./Images/PowerBI.png alt=PowerBI_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
-    <img src=./images/Colab.png alt=Colab_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    <img src=./Images/Colab.png alt=Colab_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
-    <img src=./images/Trello.png alt=Trello_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    <img src=./Images/Trello.png alt=Trello_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
-    <img src=./images/Pandas.png alt=Pandas_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    <img src=./Images/Pandas.png alt=Pandas_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
-    <img src=./images/Matplotlib.png alt=Matplotlib_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    <img src=./Images/Matplotlib.png alt=Matplotlib_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
-    <img src=./images/Nunpy.png alt=Nunpy_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    <img src=./Images/Nunpy.png alt=Nunpy_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
-    <img src=./images/Loker.png alt=Loker_Studio_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    <img src=./Images/Loker.png alt=Loker_Studio_Logo width="60" height="60" style="margin-bottom: 5px;"/>
 
 </p>
 
