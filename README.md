@@ -49,6 +49,18 @@
     <img src=./Images/OpenAI.png alt=OpenAI_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
     <img src=./Images/PowerBI.png alt=PowerBI_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./images/Colab.png alt=Colab_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./images/Trello.png alt=Trello_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./images/Pandas.png alt=Pandas_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./images/Matplotlib.png alt=Matplotlib_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./images/Nunpy.png alt=Nunpy_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./images/Loker.png alt=Loker_Studio_Logo width="60" height="60" style="margin-bottom: 5px;"/>
 
 </p>
 
@@ -160,10 +172,20 @@
 - [Python para Data Science: primeros pasos](https://app.aluracursos.com/certificate/93deb861-ff2e-41ca-8810-f658139b63fb)
 - [Practicando Python: condicionales if, elif y else](https://app.aluracursos.com/certificate/79a2da17-f79f-4829-8259-0a780472e047)
 - [Practicando Python: bucles for y while](https://app.aluracursos.com/certificate/322242a3-9547-4154-9ee4-13175663f3fd)
-- [Python para Data Science: trabajar con funciones, estructuras de datos y excepciones](https://http.cat/401)
-- [Pandas: conociendo la biblioteca](https://http.cat/401)
-- [Practicando Python para Data Science: Challenge Alura Store](https://http.cat/401)
-- [Modelado de bases de datos: entidades, relaciones y atributos](https://http.cat/401)
+- [Python para Data Science: trabajar con funciones, estructuras de datos y excepciones](https://app.aluracursos.com/certificate/3e2ac494-4e8a-496b-9006-40716c654040)
+- [Pandas: conociendo la biblioteca](https://app.aluracursos.com/certificate/454fd05a-7c56-4c51-8a73-383313578dd4?lang)
+- [Practicando Python para Data Science: Challenge Alura Store](https://app.aluracursos.com/certificate/7258b7a0-e731-4b0c-90c6-d8af689c1752?lang)
+- [Modelado de bases de datos: entidades, relaciones y atributos](https://app.aluracursos.com/certificate/a1865981-6f1d-4ef8-ad5d-4f504974cc20?lang)
+
+**Aprendiendo a hacer ETL G9 - ONE**
+- [NumPy: análisis numérico eficiente con Python](https://http.cat/401)
+- [Pandas E/S: trabajando con diferentes formatos de archivo](https://http.cat/401)
+- [Pandas: transformación y manipulación de datos](https://http.cat/401)
+- [Pandas: seleccionar y agrupar datos](https://http.cat/401)
+- [Visualización de datos: creando gráficos con bibliotecas de Python](https://http.cat/401)
+- [Visualización de Datos: estilizando tablas con Python](https://http.cat/401)
+- [Challenge Telecom X: análisis de evasión de clientes](https://http.cat/401)
+- [IA aplicada a la ciencia de datos: uso de la IA en la construcción de visualización de datos](https://http.cat/401)
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
@@ -193,27 +215,33 @@
 &nbsp;&nbsp;
 [<img src="./Images/MateAi.png" alt="MateAi Logo" width="195" height="80">](https://colab.research.google.com/drive/1JsyNmZDCF7ltf0AR-tSe_SIdLrZXmjxk?usp=sharing)
 &nbsp;&nbsp;
-[<img src="./Images/VIALDATA.png" alt="VIALDATA Logo" width="140" height="80">](https://drive.google.com/file/d/1P49jY6lYixVALo6t0nyOfVTb1SFhDCm4/view?usp=sharing)
+[<img src="./Images/VIALDATA.png" alt="VIALDATA Logo" width="140" height="80">](https://drive.google.com/file/d/19ObtVCbx4iuRtMUBs-B77ktiuBdvBZQl/view?usp=sharing)
 &nbsp;&nbsp;
 [<img src="./Images/ChiquiCoins.png" alt="ChiquiCoins Logo" width="80" height="80">](https://chiquicoins.onrender.com/)
 &nbsp;&nbsp;
-[<img src="./Images/SchoolScope.png" alt="School Scope Logo" width="85" height="80">](https://colab.research.google.com/drive/14D3ABsDj0ZjQhi6hiL94olQ5KK54vD7p?usp=sharing)
+[<img src="./Images/SchoolScope.png" alt="School Scope Logo" width="85" height="80">](https://drive.google.com/file/d/1H9qfRYlC0g6vA08gk-pxX4BUK7yyOSTb/view?usp=sharing)
 &nbsp;&nbsp;
-[<img src="./Images/Aflix.png" alt="Aflix Logo" width="70" height="80">](https://drive.google.com/drive/folders/10Po12O7J7zfn---XuybE1knFxp1lTGji?usp=sharing)
+[<img src="./Images/Aflix.png" alt="Aflix Logo" width="70" height="80">](https://drive.google.com/file/d/1jDO9UqzVK3P7u5u7lnv8TNuGZYGv0wBh/view?usp=sharing)
 &nbsp;&nbsp;
-[<img src="./Images/PokéApi.png" alt="Testeando PokéApi Logo" width="80" height="80">](https://drive.google.com/file/d/1FqN0782ckhoyeLg1jG4ZEin2AQtd8fDV/view?usp=drive_link)
+[<img src="./Images/PokéApi.png" alt="Testeando PokéApi Logo" width="80" height="80">](https://drive.google.com/file/d/16ldmDgtbq8hnhGEUdkLE2nQQhf7DjMy6/view?usp=sharing)
 &nbsp;&nbsp;
-[<img src="./Images/InformeDeRendimiento.png" alt="Informe de Rendimiento - Prueba de Stress Logo" width="200" height="80">](https://drive.google.com/file/d/1OhixgZNQiZ2SxfNxJs_i-Yui_IXoTlzV/view?usp=drive_link)
+[<img src="./Images/InformeDeRendimiento.png" alt="Informe de Rendimiento - Prueba de Stress Logo" width="200" height="80">](https://drive.google.com/file/d/1O4JCbo8wwAZ2ksgmbqetJsULMAZYHs3H/view?usp=sharing)
 &nbsp;&nbsp;
 [<img src="./Images/Sorteo.png" alt="Sorteo de Amigo Secreto Logo" width="80" height="80">](https://fedco-gtz.github.io/Challenge-Amigo-secreto/)
 &nbsp;&nbsp;
 [<img src="./Images/Portfolio.png" alt="FedeDev Logo" width="80" height="80">](https://fedco-gtz.github.io/Portfolio/)
 &nbsp;&nbsp;
-[<img src="./Images/Tierra.png" alt="Cuando la tierra habla Logo" width="80" height="80">](https://drive.google.com/file/d/1-h1U2pUoIitxmga2NzB5875kZlm8LaLE/view?usp=sharing)
+[<img src="./Images/Tierra.png" alt="Cuando la tierra habla Logo" width="80" height="80">](https://drive.google.com/file/d/1lny-0MFQD74SZ53ZWqd-amlg9N6L0leY/view?usp=sharing)
 &nbsp;&nbsp;
 [<img src="./Images/Directorio.png" alt="Directorio Escuela Logo" width="160" height="80">](https://fedco-gtz.github.io/Directorio-Escuelas/index.html)
 &nbsp;&nbsp;
 [<img src="./Images/Secreto.png" alt="Nuestro Secreto Logo" width="95" height="80">](https://nuestro-secreto.vercel.app/)
+&nbsp;&nbsp;
+[<img src="./Images/InglesElementary.png" alt="Ingles Elementary Logo" width="80" height="80">](https://drive.google.com/file/d/1wLqDWb6AcKVE2BCpm59ukQYVVGeIFGAH/view?usp=sharing)
+&nbsp;&nbsp;
+[<img src="./Images/AluraStore.png" alt="Directorio Escuela Logo" width="160" height="80">](https://drive.google.com/file/d/1kT9jvaIlAncrj_BqKFvDPz9znYuNh2L3/view?usp=sharing)
+&nbsp;&nbsp;
+[<img src="./Images/BusinessIntelligence.png" alt="Business Intelligence Logo" width="80" height="80">](https://http.cat/401)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
@@ -249,4 +277,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 16 de octubre de 2025**
+**Última actualización - 21 de noviembre de 2025**
