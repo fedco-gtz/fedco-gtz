@@ -61,6 +61,14 @@
     <img src=./Images/Nunpy.png alt=Nunpy_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
     <img src=./Images/Loker.png alt=Loker_Studio_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Seaborn.png alt=Seaborn_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Make.png alt=Make_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/N8n.png alt=n8n_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Excel.png alt=Excel_Logo width="60" height="60" style="margin-bottom: 5px;"/>
 
 </p>
 
@@ -93,8 +101,9 @@
 - [Full Stack Python](https://drive.google.com/file/d/1LbpYVB4MvOxZx4rpVx_PH-j8_vhc1e_U/view?usp=sharing)
 - [BackEnd Node JS](https://drive.google.com/file/d/1L46wTK7QcFp6lzWnDXjxGAYi7Epablus/view?usp=sharing)
 - [Iniciación a la Programación con Python](https://drive.google.com/file/d/1eLMbjnwjVip6VpYYJrvgT7-ySJjnAPiX/view?usp=sharing)
-- [Business Intelligence](https://http.cat/401)
+- [Business Intelligence](https://drive.google.com/file/d/1vBS3Dbu13hCCnCUt2aC4cvRLWcRHmdJf/view?usp=sharing)
 - [Introducción a la IA](https://drive.google.com/file/d/1uFuRRriHB7-G5EpCiEGFtA8RK56ekaJ6/view?usp=sharing)
+- [Multimedia con IA](https://http.cat/401)
 
 ---
 
@@ -178,14 +187,14 @@
 - [Modelado de bases de datos: entidades, relaciones y atributos](https://app.aluracursos.com/certificate/a1865981-6f1d-4ef8-ad5d-4f504974cc20?lang)
 
 **Aprendiendo a hacer ETL G9 - ONE**
-- [NumPy: análisis numérico eficiente con Python](https://http.cat/401)
-- [Pandas E/S: trabajando con diferentes formatos de archivo](https://http.cat/401)
-- [Pandas: transformación y manipulación de datos](https://http.cat/401)
-- [Pandas: seleccionar y agrupar datos](https://http.cat/401)
-- [Visualización de datos: creando gráficos con bibliotecas de Python](https://http.cat/401)
-- [Visualización de Datos: estilizando tablas con Python](https://http.cat/401)
-- [Challenge Telecom X: análisis de evasión de clientes](https://http.cat/401)
-- [IA aplicada a la ciencia de datos: uso de la IA en la construcción de visualización de datos](https://http.cat/401)
+- [NumPy: análisis numérico eficiente con Python](https://app.aluracursos.com/certificate/47aa9daf-283e-4a2f-bac6-70bbfd768228)
+- [Pandas E/S: trabajando con diferentes formatos de archivo](https://app.aluracursos.com/certificate/c8905e8a-f703-4ce4-99e3-90cbd8dbd064)
+- [Pandas: transformación y manipulación de datos](https://app.aluracursos.com/certificate/e60c6c85-55a6-4313-bddd-75b3c2916b1c)
+- [Pandas: seleccionar y agrupar datos](https://app.aluracursos.com/certificate/6db7e335-53f1-4fe9-8305-aeccf3eb4501)
+- [Visualización de datos: creando gráficos con bibliotecas de Python](https://app.aluracursos.com/certificate/369a7892-eef0-4aaf-afe2-d7ae1c2aabbc)
+- [Visualización de Datos: estilizando tablas con Python](https://app.aluracursos.com/certificate/e971311f-3649-48d6-91f0-593494e68939)
+- [Challenge Telecom X: análisis de evasión de clientes](https://app.aluracursos.com/certificate/176f41c3-4a55-4833-9357-b5949e3e8856)
+- [IA aplicada a la ciencia de datos: uso de la IA en la construcción de visualización de datos](https://app.aluracursos.com/certificate/6db6df8e-2879-49bf-a5c5-9f493bdfc833)
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
@@ -241,7 +250,11 @@
 &nbsp;&nbsp;
 [<img src="./Images/AluraStore.png" alt="Directorio Escuela Logo" width="160" height="80">](https://drive.google.com/file/d/1kT9jvaIlAncrj_BqKFvDPz9znYuNh2L3/view?usp=sharing)
 &nbsp;&nbsp;
-[<img src="./Images/BusinessIntelligence.png" alt="Business Intelligence Logo" width="80" height="80">](https://http.cat/401)
+[<img src="./Images/BusinessIntelligence.png" alt="Business Intelligence Logo" width="80" height="80">](https://drive.google.com/drive/folders/1jyEW41se30zshU-ELFHnf_rePdrxSvI5?usp=sharing)
+&nbsp;&nbsp;
+[<img src="./Images/Telecom-X.png" alt="Directorio Escuela Logo" width="160" height="80">](https://colab.research.google.com/drive/1du3GhGCV-uBmYGfpF1qXHY6cbcHlV8F0?usp=sharing)
+&nbsp;&nbsp;
+[<img src="./Images/Bici.png" alt="Análisis de Usuarios Ecobici 2024 Logo" width="80" height="80">](https://http.cat/401)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
@@ -277,4 +290,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 21 de noviembre de 2025**
+**Última actualización - 18 de diciembre de 2025**
