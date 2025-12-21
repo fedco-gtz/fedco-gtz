@@ -256,7 +256,7 @@
 &nbsp;&nbsp;
 [<img src="./Images/Bici.png" alt="Análisis de Usuarios Ecobici 2024 Logo" width="80" height="80">](https://http.cat/401)
 &nbsp;&nbsp;
-[<img src="./Images/CuandoCorro.png" alt="Cuando Corro Logo" width="80" height="80">](cuando-corro.vercel.app)
+[<img src="./Images/CuandoCorro.png" alt="Cuando Corro Logo" width="80" height="80">](https://cuando-corro.vercel.app/)
 
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
