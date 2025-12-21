@@ -255,6 +255,9 @@
 [<img src="./Images/Telecom-X.png" alt="Directorio Escuela Logo" width="160" height="80">](https://colab.research.google.com/drive/1du3GhGCV-uBmYGfpF1qXHY6cbcHlV8F0?usp=sharing)
 &nbsp;&nbsp;
 [<img src="./Images/Bici.png" alt="Análisis de Usuarios Ecobici 2024 Logo" width="80" height="80">](https://http.cat/401)
+&nbsp;&nbsp;
+[<img src="./Images/CuandoCorro.png" alt="Cuando Corro Logo" width="80" height="80">](cuando-corro.vercel.app)
+
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
@@ -290,4 +293,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 18 de diciembre de 2025**
+**Última actualización - 20 de diciembre de 2025**
