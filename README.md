@@ -69,6 +69,10 @@
     <img src=./Images/N8n.png alt=n8n_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
     <img src=./Images/Excel.png alt=Excel_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Tableau.png alt=Tableau_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Canva.png alt=Canva_Logo width="60" height="60" style="margin-bottom: 5px;"/>
 
 </p>
 
@@ -293,4 +297,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 20 de diciembre de 2025**
+**Última actualización - 03 de enero de 2026**
