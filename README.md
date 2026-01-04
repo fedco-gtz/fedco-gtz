@@ -160,6 +160,58 @@
 - [Liderazgo](https://is.gd/z8VCo9)
 - [Escritura efectiva y persuasiva](https://is.gd/Qqysb0)
 - [Mindfulness & Work-life balance](https://is.gd/9cZohK)
+- [Mejores Prácticas en la Enseñanza Online y el Nuevo Rol del Educador](https://is.gd/WTWSUh)
+
+---
+
+### Ⓜ️ Fundación Mauricio Macri
+- [Trayecto 1 - El nuevo liderazgo escolar en el contexto actual](https://is.gd/fDEzOo)
+- [Trayecto 2 - La escuela como agente de cambio: Desarrollo Profesional Docente y desarrollo de la comunidad](https://is.gd/BzuYTm)
+- [Trayecto 3 - Metodologías activas: Estrategias para un aprendizaje pleno](https://is.gd/zz096b)
+- [Trayecto 4 - Grandes desafíos de hoy: El clima escolar y la evaluación](https://is.gd/9KNmIq)
+- [Programa de Liderazgo Educativo](https://is.gd/BTeP0I)
+
+---
+
+### 🧠 Learny
+- [Neuroaprendizaje: 10 claves para un aprendizaje cerebro-compatible](https://is.gd/MVsbl3)
+- [Neurosugerencias pedagógicas para favorecer el aprendizaje en el aula](https://is.gd/jUMXuf)
+- [Neuroprogramación para la venta](https://is.gd/4WXfYT)
+- [Learny Live Nueropedagogía Aplicada](https://is.gd/JKgPRo)
+
+---
+
+### 🇦🇷 Argentina Programa 4.0
+- [Primeros pasos del desarrollo frontend](https://is.gd/lUiUjV)
+- [Procesamiento de datos con Python](https://is.gd/JTNzQa)
+
+---
+
+### 🇦🇷 Plataforma de aprendizaje virtual
+- [Primeros pasos del desarrollo frontend](https://is.gd/lUiUjV)
+- [Procesamiento de datos con Python](https://is.gd/JTNzQa)
+
+---
+
+### 🚀 BA Multiplica
+- [Curso de BA Multiplica](https://is.gd/vbq7GT)
+
+---
+
+### 🌐 UAI
+- [Diplomado Universitario de Capacitación Docente en Neurociencias](https://is.gd/uoOU4y)
+- [10° Jornada Internacional de Neuroeducación e Inteligencia Emocional](https://is.gd/f886Jf)
+
+---
+
+### 💻 UTN
+- [Tecnología Educativa](https://is.gd/mwbyEf)
+
+---
+
+### 🌎 Fundación ILADES
+- [Diplomado en formación de Bibliotecología y Archivología](https://is.gd/M8rd3k)
+- [Diplomado en Nutrición y Suplementario Deportiva](https://is.gd/KmEJny)
 
 ---
 
@@ -289,6 +341,8 @@
 <p align="center">
 <img src="./Images/Egg-Cooperation.png" alt="Egg-Cooperation Logo" width="120" height="120">
 &nbsp;&nbsp;
+<img src="./Images/Learny.png" alt="Learny.Online Logo" width="120" height="120">
+&nbsp;&nbsp;
 <img src="./Images/Ministerio-Economia.png" alt="Ministerio-de-Economía Logo" width="120" height="120">
 &nbsp;&nbsp;
 <img src="./Images/Lumetrio.png" alt="Lumetrio Logo" width="120" height="120">
@@ -300,6 +354,12 @@
 <img src="./Images/Coderhouse.png" alt="Coderhouse Logo" width="120" height="120">
 &nbsp;&nbsp;
 <img src="./Images/Alura.png" alt="Alura LATAM Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/ILADES.png" alt="Fundación ILADES Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/UAI.png" alt="UAI Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/UTN.png" alt="UTN Logo" width="120" height="120">
 </p>
 
 <h2 align="center">📫 Contactame en 📫</h2>
