@@ -209,9 +209,39 @@
 
 ---
 
+### 🟢 UCES
+- [Diplomatura Superior de Comunicación en las Instituciones Educativas]()
+- [Diplomatura Superior en Diversidad y educación]()
+
+---
+
 ### 🌎 Fundación ILADES
 - [Diplomado en formación de Bibliotecología y Archivología](https://is.gd/M8rd3k)
 - [Diplomado en Nutrición y Suplementario Deportiva](https://is.gd/KmEJny)
+
+---
+
+### 💼 CFAP
+- [Protocolo y Ceremonial](https://is.gd/ItJsUi)
+- [Administración de Recursos](https://is.gd/4uAaGd)
+- [Trabajo en Equipo](https://is.gd/OPXK8z)
+
+---
+
+### 👨🏻‍🏫 CIIE
+- [¿Por qué es importante enseñar estadística?](https://is.gd/7fTLh5)
+- [La evaluación: Puente entre la enseñanza y el aprendizaje](https://is.gd/TsMfGr)
+
+---
+
+### 📗 INFoD
+- [La ESI en la escuela: Vínculos saludables para prevenir la violencia de género](https://is.gd/stMKpZ)
+- [Lectura y escritura académica](https://is.gd/33wa1f)
+- [Planificando con herramientas digitales](https://is.gd/ue18Yr)
+- [Temas de enseñanza de Geometría y Medida](https://is.gd/pvqK4c)
+- [Enseñanza y aprendizaje del Álgebra en la escuela secundaria](https://is.gd/r7eAPS)
+- [La educación matemática desde la perspectiva de la investigación](https://is.gd/eGF36D)
+- [Actualización Académica en Enseñar y aprender matemática en la escuela secundaria](https://is.gd/t0ixhH)
 
 ---
 
@@ -356,6 +386,14 @@
 <img src="./Images/Alura.png" alt="Alura LATAM Logo" width="120" height="120">
 &nbsp;&nbsp;
 <img src="./Images/ILADES.png" alt="Fundación ILADES Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/CFAP.png" alt="CFAP Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/CIIE.png" alt="CIIE Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/INFoD.png" alt="INFoD Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/UCES.png" alt="UCES Logo" width="120" height="120">
 &nbsp;&nbsp;
 <img src="./Images/UAI.png" alt="UAI Logo" width="120" height="120">
 &nbsp;&nbsp;
