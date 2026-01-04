@@ -9,9 +9,9 @@
 
 - 🧮 Profesor de Matemática
 
-- 👨🏼‍🏫 Estudiante de la `Carrera de Data Scientist` y `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://www.coderhouse.com/ar)
+- 👨🏼‍🏫 Estudiante de la `Carrera de Data Scientist` y `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://is.gd/GCb31k)
 
-- 🗂️ Accede a mi [`Portfolio Personal`](https://fedco-gtz.github.io/Portfolio/)
+- 🗂️ Accede a mi [`Portfolio Personal`](https://is.gd/jMfbIU)
 
 <h2 align="center">🛠️ Lenguajes de programación y herramientas 🛠️</h2>
 
@@ -80,7 +80,7 @@
 
 ### 🥚 Egg Cooperation
 
-- [Programación desde cero](https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg)
+- [Programación desde cero](https://is.gd/cqiZO1)
 - [Programación Web desde cero](https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg)
 
 ---
@@ -93,50 +93,56 @@
 ---
 
 ### 💎 Lumetrio
-- [Introducción a la Programación](https://drive.google.com/file/d/1qM11ZnACJECziVGvYOQxkq2wPwecFa__/view?usp=sharing)
-- [Programación Frontend](https://drive.google.com/file/d/1OHTqBx_DZWGKXOU-r1SgwYlW3X8UjAr9/view?usp=sharing)
-- [Python](https://drive.google.com/file/d/1sXe6RLXMNM8Y6rdPhCyferERcLFiYWMA/view?usp=sharing)
-- [React](https://drive.google.com/file/d/1ghtuN_Ipzr4gWoJCQJ2vrZeD9N4BzlBk/view?usp=sharing)
-- [Git y Github](https://drive.google.com/file/d/1m2wyYarvWTBGiY3KJcAJ2ytHGm7zXPAg/view?usp=sharing)
+- [Introducción a la Programación](https://is.gd/B7krrW)
+- [Programación Frontend](https://is.gd/yUXa02)
+- [Python](https://is.gd/kxMOEt)
+- [React](https://is.gd/ytzFLo)
+- [Git y Github](https://is.gd/dJmglc)
+
+---
+
+### 🔵 Educación IT
+- [Introducción a la Programación](https://is.gd/oJITYy)
 
 ---
 
 ### 🚀 Talento Tech (ex Codo a Codo)
-- [Full Stack Python](https://drive.google.com/file/d/1LbpYVB4MvOxZx4rpVx_PH-j8_vhc1e_U/view?usp=sharing)
-- [BackEnd Node JS](https://drive.google.com/file/d/1L46wTK7QcFp6lzWnDXjxGAYi7Epablus/view?usp=sharing)
-- [Iniciación a la Programación con Python](https://drive.google.com/file/d/1eLMbjnwjVip6VpYYJrvgT7-ySJjnAPiX/view?usp=sharing)
-- [Business Intelligence](https://drive.google.com/file/d/1vBS3Dbu13hCCnCUt2aC4cvRLWcRHmdJf/view?usp=sharing)
-- [Introducción a la IA](https://drive.google.com/file/d/1uFuRRriHB7-G5EpCiEGFtA8RK56ekaJ6/view?usp=sharing)
+- [Full Stack Python](https://is.gd/3mRIw4)
+- [BackEnd Node JS](https://is.gd/FTsqtK)
+- [Iniciación a la Programación con Python](https://is.gd/YIfx5m)
+- [Business Intelligence](https://is.gd/jogV7q)
+- [Introducción a la IA](https://is.gd/mFWwid)
+- [Construí Tu Futuro - Comunicación Efectiva](https://is.gd/akSTUn)
 - [Multimedia con IA](https://http.cat/401)
 
 ---
 
 ### 🟡 Coderhouse
 **Frontend y Backend**
-- [Desarrollo Web](https://pub.coderhouse.com/legacy-certificates/65c0a148a665c35259cc62a3?lang=es)
-- [JavaScript](https://pub.coderhouse.com/legacy-certificates/66158e00451ec417dfb30263?lang=es)
-- [React Js](https://pub.coderhouse.com/legacy-certificates/664be1fdc35d22af7ccbacda?lang=es)
-- [Carrera de Desarrollo Frontend React](https://pub.coderhouse.com/legacy-certificates/664be1fdc35d221341cbace5?lang=es)
-- [Programación Backend I](https://pub.coderhouse.com/legacy-certificates/66a4638e64c8734d4c85aa10?lang=es)
-- [Programación Backend II](https://pub.coderhouse.com/legacy-certificates/66f5b32dd1c51d20ed892031?lang=es)
-- [Programación Backend III](https://pub.coderhouse.com/legacy-certificates/67506c7b4ea27fc1cf1d02ef?lang=es)
-- [SQL](https://pub.coderhouse.com/certificates/d10ebff2-8095-4164-8165-5ec7f5281f9f?v=1)
-- [Testing QA Manual](https://pub.coderhouse.com/certificates/b94e5a69-0542-47a6-847e-5211549e2410?v=1)
+- [Desarrollo Web](https://is.gd/rzGj0Z)
+- [JavaScript](https://is.gd/3nqfF9)
+- [React Js](https://is.gd/RgTcox)
+- [Carrera de Desarrollo Frontend React](https://is.gd/bPnPIb)
+- [Programación Backend I](https://is.gd/jvSHoT)
+- [Programación Backend II](https://is.gd/hvz5lp)
+- [Programación Backend III](https://is.gd/9KvgUR)
+- [SQL](https://is.gd/zwcWF7)
+- [Testing QA Manual](https://is.gd/jnfBgu)
 
 **Inteligencia Artificial**
-- [Fundamentos de Inteligencia Artificial](https://pub.coderhouse.com/certificates/1edc3ff8-fff7-4f18-9b71-234e19d5ee31?v=1)
-- [Generación de Prompts con IA](https://pub.coderhouse.com/certificates/b9447d09-9e47-4efb-b76d-cbab513f5fa7?v=1)
+- [Fundamentos de Inteligencia Artificial](https://is.gd/k6NUUK)
+- [Generación de Prompts con IA](https://is.gd/wMgNh2)
 - [IA Automation](https://http.cat/401)
 
 **Ciencias de Datos**
-- [Data Analytics](https://pub.coderhouse.com/certificates/04a00609-e6f4-4718-9cd0-80a97f114102?v=1)
-- [Data Science I: Fundamentos de la Ciencia de Datos](https://pub.coderhouse.com/certificates/d24a529e-67cb-4fba-80bb-9d755e0d9e41?v=1)
-- [Data Science II: Machine Learning para la Ciencia de Datos](https://pub.coderhouse.com/certificates/5401bdf4-1b74-4b5d-8ae0-c16ca44b3a6e?v=1)
+- [Data Analytics](https://is.gd/of4aYH)
+- [Data Science I: Fundamentos de la Ciencia de Datos](https://is.gd/ypu76X)
+- [Data Science II: Machine Learning para la Ciencia de Datos](https://is.gd/2wqLiF)
 - [Data Science III: NLP & Deep Learning aplicado a la Ciencia de Datos](https://http.cat/401)
 - [Carrera de Data Scientist](https://http.cat/401)
 
 **Academia de Inglés**
-- [Inglés para el mundo digital - Nivel Elementary](https://pub.coderhouse.com/legacy-certificates/68ee55456c260acf0d8f9cb9?lang=es)
+- [Inglés para el mundo digital - Nivel Elementary](https://is.gd/B40x5e)
 
 **Análisis de Datos**
 - [Excel](https://http.cat/401)
@@ -147,120 +153,135 @@
 ---
 
 ### 🔥 Santander Open Academy
-- [Google: Inteligencia Artificial y productividad](https://drive.google.com/file/d/1PCssWgcS_NSgHnJycS2aRDsRbbbk2HwK/view?usp=drive_link)
-- [GitHub Copilot](https://drive.google.com/file/d/1KHq8STQeGyLAKHRiMj_v7nkCXnpQR7je/view?usp=drive_link)
-- [Introducción a la Ciencia de Datos](https://drive.google.com/file/d/1I8JOrpYBE_yUtf77cY-hQ5e-1BtfXvWz/view?usp=drive_link)
-- [Power BI](https://drive.google.com/file/d/1iG7jLa-r7vYB1Y1TgPGSiMnYDhrThP6g/view?usp=drive_link)
+- [Google: Inteligencia Artificial y productividad](https://is.gd/RHecXd)
+- [Copilot](https://is.gd/hNVp3M)
+- [Introducción a la Ciencia de Datos](https://is.gd/g6jUIB)
+- [Power BI](https://is.gd/6T86vs)
+- [Liderazgo](https://is.gd/z8VCo9)
+- [Escritura efectiva y persuasiva](https://is.gd/Qqysb0)
+- [Mindfulness & Work-life balance](https://is.gd/9cZohK)
 
 ---
 
 ### ✨ Alura LATAM
 **Desarrollo Personal G9 - ONE**
-- [Aprender a aprender: técnicas para tu autodesarrollo](https://app.aluracursos.com/certificate/c081a1ef-595e-463b-a618-68b4eedf8d31?lang)
-- [LinkedIn para profesionales: construye tu marca y genera oportunidades](https://app.aluracursos.com/certificate/cc764e5b-df27-42c3-9334-719b376dc5f7?lang)
-- [Foco: Enfocarse trae más resultados para el día a día](https://app.aluracursos.com/certificate/8898bb6c-2cd6-4386-8545-27d4f3910700?lang)
-- [Hábitos: Ser productivo para cumplir sus metas personales](https://app.aluracursos.com/certificate/b75b4aa7-d1c5-4a85-94ff-85f705fa8705?lang)
-- [Aprendizaje con IA: personalizando tu rutina con ChatGPT](https://app.aluracursos.com/certificate/5666b259-2b89-4a59-a2e5-bc2769573ee5?lang)
+- [Aprender a aprender: técnicas para tu autodesarrollo](https://is.gd/WcC9oV)
+- [LinkedIn para profesionales: construye tu marca y genera oportunidades](https://is.gd/qag4hz)
+- [Foco: Enfocarse trae más resultados para el día a día](https://is.gd/KzvOr9)
+- [Hábitos: Ser productivo para cumplir sus metas personales](https://is.gd/WMfF98)
+- [Aprendizaje con IA: personalizando tu rutina con ChatGPT](https://is.gd/uy2JH8)
 
 **Principiante en Programación G9 - ONE**
-- [Lógica de programación: sumérgete en la programación con JavaScript](https://app.aluracursos.com/certificate/d68b8613-59a9-44e8-943a-51773a2b16c5?lang)
-- [Lógica de programación: explorar funciones y listas](https://app.aluracursos.com/certificate/fe23c0c2-844f-4757-88a0-2bd00a4972a1?lang)
-- [Git y GitHub: repositorio, commit y versiones](https://app.aluracursos.com/certificate/d44f57ac-4e40-4f21-91cd-cd11b6d0c56a?lang)
-- [Practicando Lógica de Programación: Challenge Amigo secreto](https://app.aluracursos.com/certificate/84092f4e-198b-4603-9b37-2db5012c1825?lang)
-- [IA: explorando el potencial de la Inteligencia Artificial Generativa](https://app.aluracursos.com/certificate/d5f2b90f-a7f8-4efb-a6d5-92b6a0adb40a?lang)
-- [Ingeniería de Prompt: creando prompts eficaces para la IA generativa](https://app.aluracursos.com/certificate/68045e66-c905-4d94-b852-d062bf6be19f?lang)
-- [HTML y CSS: ambientes de desarrollo, estructura de archivos y tags](https://app.aluracursos.com/certificate/b8833666-3432-44b7-aa5f-161199df0ed8?lang)
-- [HTML y CSS: Clases, Posicionamiento y Flexbox](https://app.aluracursos.com/certificate/3372e2e9-b1e3-4225-a322-a3684d9abae3?lang)
-- [HTML y CSS: header, footer y variables CSS](https://app.aluracursos.com/certificate/31ba4bfc-55c8-40f9-9e6f-ef139ac6eb53?lang)
-- [HTML y CSS: trabajando con responsividad y publicación de proyectos](https://app.aluracursos.com/certificate/b1f65580-c5fd-47a7-af13-df3dd347d0d6?lang)
+- [Lógica de programación: sumérgete en la programación con JavaScript](https://is.gd/NWVKcp)
+- [Lógica de programación: explorar funciones y listas](https://is.gd/KSMGnv)
+- [Git y GitHub: repositorio, commit y versiones](https://is.gd/pMgDKG)
+- [Practicando Lógica de Programación: Challenge Amigo secreto](https://is.gd/CBKnp2)
+- [IA: explorando el potencial de la Inteligencia Artificial Generativa](https://is.gd/VjjFUb)
+- [Ingeniería de Prompt: creando prompts eficaces para la IA generativa](https://is.gd/gsWFxf)
+- [HTML y CSS: ambientes de desarrollo, estructura de archivos y tags](https://is.gd/5pVy21)
+- [HTML y CSS: Clases, Posicionamiento y Flexbox](https://is.gd/QKJ2Fc)
+- [HTML y CSS: header, footer y variables CSS](https://is.gd/IUoCQp)
+- [HTML y CSS: trabajando con responsividad y publicación de proyectos](https://is.gd/UC8Lu7)
 
 **Emprendimiento, Agilidad y Protagonismo Profesional G9 - ONE**
-- [Desarrollo de carrera: demanda del mercado](https://app.aluracursos.com/certificate/a830a3d2-7aa0-44fb-bc48-c50d122613df)
-- [Propósito profesional: ser el protagonista de tu carrera](https://app.aluracursos.com/certificate/a2b6d8fc-009d-4ab7-8a10-d7e20967c8e4)
-- [Transición de carrera: una guía al campo de tecnología](https://app.aluracursos.com/certificate/625cae3a-e51e-4f68-a1e9-eb476c3d25ac)
-- [Fundamentos de Agilidad: Primeros pasos para la transformación ágil](https://app.aluracursos.com/certificate/6cbca069-44d9-4378-aec0-2446209a5fe4)
-- [Emprendimiento: De la idea al plan de negocios](https://app.aluracursos.com/certificate/07b6deec-5902-44e5-80b3-0cdd4364dc95)
+- [Desarrollo de carrera: demanda del mercado](https://is.gd/GDWqkO)
+- [Propósito profesional: ser el protagonista de tu carrera](https://is.gd/gULRMs)
+- [Transición de carrera: una guía al campo de tecnología](https://is.gd/g4Ph9f)
+- [Fundamentos de Agilidad: Primeros pasos para la transformación ágil](https://is.gd/1JH8uX)
+- [Emprendimiento: De la idea al plan de negocios](https://is.gd/xjNS4d)
 
 **Fundamentos de Python y Datos G9 - ONE**
-- [Python para Data Science: primeros pasos](https://app.aluracursos.com/certificate/93deb861-ff2e-41ca-8810-f658139b63fb)
-- [Practicando Python: condicionales if, elif y else](https://app.aluracursos.com/certificate/79a2da17-f79f-4829-8259-0a780472e047)
-- [Practicando Python: bucles for y while](https://app.aluracursos.com/certificate/322242a3-9547-4154-9ee4-13175663f3fd)
-- [Python para Data Science: trabajar con funciones, estructuras de datos y excepciones](https://app.aluracursos.com/certificate/3e2ac494-4e8a-496b-9006-40716c654040)
-- [Pandas: conociendo la biblioteca](https://app.aluracursos.com/certificate/454fd05a-7c56-4c51-8a73-383313578dd4?lang)
-- [Practicando Python para Data Science: Challenge Alura Store](https://app.aluracursos.com/certificate/7258b7a0-e731-4b0c-90c6-d8af689c1752?lang)
-- [Modelado de bases de datos: entidades, relaciones y atributos](https://app.aluracursos.com/certificate/a1865981-6f1d-4ef8-ad5d-4f504974cc20?lang)
+- [Python para Data Science: primeros pasos](https://is.gd/Og5To0)
+- [Practicando Python: condicionales if, elif y else](https://is.gd/U7Mv40)
+- [Practicando Python: bucles for y while](https://is.gd/ytFe3w)
+- [Python para Data Science: trabajar con funciones, estructuras de datos y excepciones](https://is.gd/oJJiki)
+- [Pandas: conociendo la biblioteca](https://is.gd/qZf8jO)
+- [Practicando Python para Data Science: Challenge Alura Store](https://is.gd/64LccE)
+- [Modelado de bases de datos: entidades, relaciones y atributos](https://is.gd/NPzAHC)
 
 **Aprendiendo a hacer ETL G9 - ONE**
-- [NumPy: análisis numérico eficiente con Python](https://app.aluracursos.com/certificate/47aa9daf-283e-4a2f-bac6-70bbfd768228)
-- [Pandas E/S: trabajando con diferentes formatos de archivo](https://app.aluracursos.com/certificate/c8905e8a-f703-4ce4-99e3-90cbd8dbd064)
-- [Pandas: transformación y manipulación de datos](https://app.aluracursos.com/certificate/e60c6c85-55a6-4313-bddd-75b3c2916b1c)
-- [Pandas: seleccionar y agrupar datos](https://app.aluracursos.com/certificate/6db7e335-53f1-4fe9-8305-aeccf3eb4501)
-- [Visualización de datos: creando gráficos con bibliotecas de Python](https://app.aluracursos.com/certificate/369a7892-eef0-4aaf-afe2-d7ae1c2aabbc)
-- [Visualización de Datos: estilizando tablas con Python](https://app.aluracursos.com/certificate/e971311f-3649-48d6-91f0-593494e68939)
-- [Challenge Telecom X: análisis de evasión de clientes](https://app.aluracursos.com/certificate/176f41c3-4a55-4833-9357-b5949e3e8856)
-- [IA aplicada a la ciencia de datos: uso de la IA en la construcción de visualización de datos](https://app.aluracursos.com/certificate/6db6df8e-2879-49bf-a5c5-9f493bdfc833)
+- [NumPy: análisis numérico eficiente con Python](https://is.gd/AIMC8J)
+- [Pandas E/S: trabajando con diferentes formatos de archivo](https://is.gd/kiaQs3)
+- [Pandas: transformación y manipulación de datos](https://is.gd/H9NDmi)
+- [Pandas: seleccionar y agrupar datos](https://is.gd/jmvxOh)
+- [Visualización de datos: creando gráficos con bibliotecas de Python](https://is.gd/D9zjl1)
+- [Visualización de Datos: estilizando tablas con Python](https://is.gd/RGQyMY)
+- [Challenge Telecom X: análisis de evasión de clientes](https://is.gd/Y9r1Vs)
+- [IA aplicada a la ciencia de datos: uso de la IA en la construcción de visualización de datos](https://is.gd/AlbfpH)
+
+**Estadisticas y Machine Learning G9 - ONE**
+- [Curso 1](https://http.cat/401)
+- [Curso 2](https://http.cat/401)
+- [Curso 3](https://http.cat/401)
+- [Curso 4](https://http.cat/401)
+- [Curso 5](https://http.cat/401)
+- [Curso 6](https://http.cat/401)
+- [Curso 7](https://http.cat/401)
+- [Curso 8](https://http.cat/401)
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
-[<img src="./Images/Casamiento.png" alt="Casamiento Logo" width="140" height="80">](https://fedco-gtz.github.io/Nos-Casamos-Ger-y-Gabi/)
+[<img src="./Images/Casamiento.png" alt="Casamiento Logo" width="140" height="80">](https://is.gd/sV81o5)
 &nbsp;&nbsp;
-[<img src="./Images/Music-Store.png" alt="Music-Store Logo" width="80" height="80">](https://musictore.netlify.app/)
+[<img src="./Images/Music-Store.png" alt="Music-Store Logo" width="80" height="80">](https://is.gd/7VeVgV)
 &nbsp;&nbsp;
-[<img src="./Images/Mascotas-Felices.png" alt="Mascotas-Felices Logo" width="80" height="80">](https://mascotas-felices.netlify.app/)
+[<img src="./Images/Mascotas-Felices.png" alt="Mascotas-Felices Logo" width="80" height="80">](https://is.gd/Iw4Kk7)
 &nbsp;&nbsp;
-[<img src="./Images/VuelaSmart.png" alt="VuelaSmart Logo" width="115" height="80">](https://vuelasmart.netlify.app/)
+[<img src="./Images/VuelaSmart.png" alt="VuelaSmart Logo" width="115" height="80">](https://is.gd/n5Fw0H)
 &nbsp;&nbsp;
-[<img src="./Images/ZapaTienda.png" alt="ZapaTienda Logo" width="80" height="80">](https://zapatienda.vercel.app/)
+[<img src="./Images/ZapaTienda.png" alt="ZapaTienda Logo" width="80" height="80">](https://is.gd/YQkueq)
 &nbsp;&nbsp;
-[<img src="./Images/Funko-Paradise.png" alt="Funko-Paradise Logo" width="140" height="80">](https://funkoparadise.vercel.app/)
+[<img src="./Images/Funko-Paradise.png" alt="Funko-Paradise Logo" width="140" height="80">](https://is.gd/2CGHih)
 &nbsp;&nbsp;
-[<img src="./Images/Verde-Vital.png" alt="Verde-Vital Logo" width="130" height="80">](https://github.com/fedco-gtz/Backend-III-Coderhouse)
+[<img src="./Images/Verde-Vital.png" alt="Verde-Vital Logo" width="130" height="80">](https://is.gd/y6JZkB)
 &nbsp;&nbsp;
-[<img src="./Images/AdoptMe.png" alt="AdoptMe Logo" width="140" height="80">](https://github.com/fedco-gtz/RecursosBackend-Adoptme)
+[<img src="./Images/AdoptMe.png" alt="AdoptMe Logo" width="140" height="80">](https://is.gd/gNl3iL)
 &nbsp;&nbsp;
-[<img src="./Images/Piedra-Papel-Tijera.png" alt="Piedra,-Papel-o-Tijera Logo" width="140" height="80">](https://colab.research.google.com/drive/1Py7hTg2NZOFlR9G61eru9vgv5vQN7xwK?usp=sharing)
+[<img src="./Images/Piedra-Papel-Tijera.png" alt="Piedra,-Papel-o-Tijera Logo" width="140" height="80">](https://is.gd/yhqXFk)
 &nbsp;&nbsp;
-[<img src="./Images/Inventario.png" alt="Inventario-de-Prodcutos Logo" width="140" height="80">](https://colab.research.google.com/drive/1SPE_t6KUmc47hlfKxNBiU3PI5W20-HXK?usp=sharing)
+[<img src="./Images/Inventario.png" alt="Inventario-de-Prodcutos Logo" width="140" height="80">](https://is.gd/GzBSAS)
 &nbsp;&nbsp;
-[<img src="./Images/Las-matemáticas-en-el-universo.png" alt="Las-matemáticas-en-el-universo Logo" width="80" height="80">](https://fedco-gtz.github.io/Fundamento-de-la-IA-Coderhouse/)
+[<img src="./Images/Las-matemáticas-en-el-universo.png" alt="Las-matemáticas-universo Logo" width="80" height="80">](https://is.gd/7jM9wZ)
 &nbsp;&nbsp;
-[<img src="./Images/CAC-Movies.png" alt="CAC-Movies Logo" width="140" height="80">](https://cac-movie.onrender.com/)
+[<img src="./Images/CAC-Movies.png" alt="CAC-Movies Logo" width="140" height="80">](https://is.gd/K1QtfR)
 &nbsp;&nbsp;
-[<img src="./Images/MateAi.png" alt="MateAi Logo" width="195" height="80">](https://colab.research.google.com/drive/1JsyNmZDCF7ltf0AR-tSe_SIdLrZXmjxk?usp=sharing)
+[<img src="./Images/MateAi.png" alt="MateAi Logo" width="195" height="80">](https://is.gd/plhgxu)
 &nbsp;&nbsp;
-[<img src="./Images/VIALDATA.png" alt="VIALDATA Logo" width="140" height="80">](https://drive.google.com/file/d/19ObtVCbx4iuRtMUBs-B77ktiuBdvBZQl/view?usp=sharing)
+[<img src="./Images/VIALDATA.png" alt="VIALDATA Logo" width="140" height="80">](https://is.gd/8CFiYw)
 &nbsp;&nbsp;
-[<img src="./Images/ChiquiCoins.png" alt="ChiquiCoins Logo" width="80" height="80">](https://chiquicoins.onrender.com/)
+[<img src="./Images/ChiquiCoins.png" alt="ChiquiCoins Logo" width="80" height="80">](https://is.gd/3Dx9kn)
 &nbsp;&nbsp;
-[<img src="./Images/SchoolScope.png" alt="School Scope Logo" width="85" height="80">](https://drive.google.com/file/d/1H9qfRYlC0g6vA08gk-pxX4BUK7yyOSTb/view?usp=sharing)
+[<img src="./Images/SchoolScope.png" alt="School Scope Logo" width="85" height="80">](https://is.gd/iTUBgb)
 &nbsp;&nbsp;
-[<img src="./Images/Aflix.png" alt="Aflix Logo" width="70" height="80">](https://drive.google.com/file/d/1jDO9UqzVK3P7u5u7lnv8TNuGZYGv0wBh/view?usp=sharing)
+[<img src="./Images/Aflix.png" alt="Aflix Logo" width="70" height="80">](https://is.gd/WvC7Nc)
 &nbsp;&nbsp;
-[<img src="./Images/PokéApi.png" alt="Testeando PokéApi Logo" width="80" height="80">](https://drive.google.com/file/d/16ldmDgtbq8hnhGEUdkLE2nQQhf7DjMy6/view?usp=sharing)
+[<img src="./Images/PokéApi.png" alt="Testeando PokéApi Logo" width="80" height="80">](https://is.gd/RAfkn4)
 &nbsp;&nbsp;
-[<img src="./Images/InformeDeRendimiento.png" alt="Informe de Rendimiento - Prueba de Stress Logo" width="200" height="80">](https://drive.google.com/file/d/1O4JCbo8wwAZ2ksgmbqetJsULMAZYHs3H/view?usp=sharing)
+[<img src="./Images/InformeDeRendimiento.png" alt="Informe de Rendimiento - Prueba de Stress Logo" width="200" height="80">](https://is.gd/vBzOgu)
 &nbsp;&nbsp;
-[<img src="./Images/Sorteo.png" alt="Sorteo de Amigo Secreto Logo" width="80" height="80">](https://fedco-gtz.github.io/Challenge-Amigo-secreto/)
+[<img src="./Images/Sorteo.png" alt="Sorteo de Amigo Secreto Logo" width="80" height="80">](https://is.gd/q8KrBZ)
 &nbsp;&nbsp;
-[<img src="./Images/Portfolio.png" alt="FedeDev Logo" width="80" height="80">](https://fedco-gtz.github.io/Portfolio/)
+[<img src="./Images/Portfolio.png" alt="FedeDev Logo" width="80" height="80">](https://is.gd/jMfbIU)
 &nbsp;&nbsp;
-[<img src="./Images/Tierra.png" alt="Cuando la tierra habla Logo" width="80" height="80">](https://drive.google.com/file/d/1lny-0MFQD74SZ53ZWqd-amlg9N6L0leY/view?usp=sharing)
+[<img src="./Images/Tierra.png" alt="Cuando la tierra habla Logo" width="80" height="80">](https://is.gd/hPNjih)
 &nbsp;&nbsp;
-[<img src="./Images/Directorio.png" alt="Directorio Escuela Logo" width="160" height="80">](https://fedco-gtz.github.io/Directorio-Escuelas/index.html)
+[<img src="./Images/Directorio.png" alt="Directorio Escuela Logo" width="160" height="80">](https://is.gd/TIoyr2)
 &nbsp;&nbsp;
-[<img src="./Images/Secreto.png" alt="Nuestro Secreto Logo" width="95" height="80">](https://nuestro-secreto.vercel.app/)
+[<img src="./Images/Secreto.png" alt="Nuestro Secreto Logo" width="95" height="80">](https://is.gd/TRqvxp)
 &nbsp;&nbsp;
-[<img src="./Images/InglesElementary.png" alt="Ingles Elementary Logo" width="80" height="80">](https://drive.google.com/file/d/1wLqDWb6AcKVE2BCpm59ukQYVVGeIFGAH/view?usp=sharing)
+[<img src="./Images/InglesElementary.png" alt="Ingles Elementary Logo" width="80" height="80">](https://is.gd/5EXm2G)
 &nbsp;&nbsp;
-[<img src="./Images/AluraStore.png" alt="Directorio Escuela Logo" width="160" height="80">](https://drive.google.com/file/d/1kT9jvaIlAncrj_BqKFvDPz9znYuNh2L3/view?usp=sharing)
+[<img src="./Images/AluraStore.png" alt="Directorio Escuela Logo" width="160" height="80">](https://is.gd/887wvU)
 &nbsp;&nbsp;
-[<img src="./Images/BusinessIntelligence.png" alt="Business Intelligence Logo" width="80" height="80">](https://drive.google.com/drive/folders/1jyEW41se30zshU-ELFHnf_rePdrxSvI5?usp=sharing)
+[<img src="./Images/BusinessIntelligence.png" alt="Business Intelligence Logo" width="80" height="80">](https://is.gd/3flpYT)
 &nbsp;&nbsp;
-[<img src="./Images/Telecom-X.png" alt="Directorio Escuela Logo" width="160" height="80">](https://colab.research.google.com/drive/1du3GhGCV-uBmYGfpF1qXHY6cbcHlV8F0?usp=sharing)
+[<img src="./Images/Telecom-X.png" alt="Directorio Escuela Logo" width="160" height="80">](https://is.gd/2VnFZX)
 &nbsp;&nbsp;
 [<img src="./Images/Bici.png" alt="Análisis de Usuarios Ecobici 2024 Logo" width="80" height="80">](https://http.cat/401)
 &nbsp;&nbsp;
-[<img src="./Images/CuandoCorro.png" alt="Cuando Corro Logo" width="80" height="80">](https://cuando-corro.vercel.app/)
+[<img src="./Images/CuandoCorro.png" alt="Cuando Corro Logo" width="80" height="80">](https://is.gd/eNu9UX)
+&nbsp;&nbsp;
+[<img src="./Images/Acortar.png" alt="Acort.Ar Logo" width="160" height="80">](https://is.gd/dDfIxI)
 
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
@@ -297,4 +318,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 03 de enero de 2026**
+**Última actualización - 04 de enero de 2026**
