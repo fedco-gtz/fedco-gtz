@@ -215,6 +215,14 @@
 
 ---
 
+### ⭐ UNC
+- [Introducción a la Fotografía](https://is.gd/6kqWLG)
+- [IA y automatización de flujos de trabajo: aprende a automatizar de forma eficaz y eficiente]()
+- [Herramientas de inteligencia artificial para docentes 1](https://is.gd/xplemi)
+- [Herramientas de inteligencia artificial para docentes 2](https://is.gd/1HgQxd)
+
+---
+
 ### 🌎 Fundación ILADES
 - [Diplomado en formación de Bibliotecología y Archivología](https://is.gd/M8rd3k)
 - [Diplomado en Nutrición y Suplementario Deportiva](https://is.gd/KmEJny)
@@ -394,6 +402,8 @@
 <img src="./Images/INFoD.png" alt="INFoD Logo" width="120" height="120">
 &nbsp;&nbsp;
 <img src="./Images/UCES.png" alt="UCES Logo" width="120" height="120">
+&nbsp;&nbsp;
+<img src="./Images/UNC.png" alt="UNC Logo" width="120" height="120">
 &nbsp;&nbsp;
 <img src="./Images/UAI.png" alt="UAI Logo" width="120" height="120">
 &nbsp;&nbsp;
