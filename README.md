@@ -372,6 +372,8 @@
 [<img src="./Images/CuandoCorro.png" alt="Cuando Corro Logo" width="80" height="80">](https://is.gd/eNu9UX)
 &nbsp;&nbsp;
 [<img src="./Images/Acortar.png" alt="Acort.Ar Logo" width="160" height="80">](https://is.gd/dDfIxI)
+&nbsp;&nbsp;
+[<img src="./Images/Educacion.png" alt="Educacion Argentina Logo" width="80" height="80">](https://is.gd/RdzIEf)
 
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
