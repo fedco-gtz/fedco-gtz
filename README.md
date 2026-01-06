@@ -300,14 +300,14 @@
 - [IA aplicada a la ciencia de datos: uso de la IA en la construcción de visualización de datos](https://is.gd/AlbfpH)
 
 **Estadisticas y Machine Learning G9 - ONE**
-- [Curso 1](https://http.cat/401)
-- [Curso 2](https://http.cat/401)
-- [Curso 3](https://http.cat/401)
-- [Curso 4](https://http.cat/401)
-- [Curso 5](https://http.cat/401)
-- [Curso 6](https://http.cat/401)
-- [Curso 7](https://http.cat/401)
-- [Curso 8](https://http.cat/401)
+- [Estadística con Python: frecuencias y medidas](https://http.cat/401)
+- [Estadística con Python: Probabilidad y muestreo](https://http.cat/401)
+- [Regresión Lineal: Análisis de correlaciones y previsión de resultados](https://http.cat/401)
+- [Regresión lineal: Técnicas avanzadas de Modelado](https://http.cat/401)
+- [Data Science: probando relaciones con regresión lineal](https://http.cat/401)
+- [Clasificación: validación de modelos y métricas de evaluación](https://http.cat/401)
+- [IA aumentada: previsión de atrasos de vuelos](https://http.cat/401)
+- [Challenge Telecom X: análisis de evasión de clientes - Parte 2](https://http.cat/401)
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
@@ -426,4 +426,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 04 de enero de 2026**
+**Última actualización - 06 de enero de 2026**
