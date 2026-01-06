@@ -418,13 +418,14 @@
     <a href="https://www.linkedin.com/in/fedco-grrz/" target="_blank">
     <img src=./Images/LinkedIn.png alt=LinkedIn_Logo width="45" height="45" style="margin-bottom: 5px;"/>
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://www.instagram.com/grrz.fd/" target="_blank">
     <img src=./Images/Instagram.png alt=Instagram_Logo width="45" height="45" style="margin-bottom: 5px;"/>
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="mailto:gutierrezfedericog@gmail.com" target="_blank">
     <img src=./Images/Gmail.png alt=Gmail_Logo width="54" height="45" style="margin-bottom: 5px;"/>
+    </a>
 </p>
 
 _________________________________________________________________________________________________________
