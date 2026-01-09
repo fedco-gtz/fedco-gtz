@@ -81,7 +81,7 @@
 ### 🥚 Egg Cooperation
 
 - [Programación desde cero](https://is.gd/cqiZO1)
-- [Programación Web desde cero](https://demo-egg-certificates.s3.amazonaws.com/FedericoGabrielGutierrez/programaci%C3%B3ndesdecerolatam/thumbnail_f3842983de1a7d203664e91f8cdc8530d75575d9ea2ae4d3c2e225375682d697.jpeg)
+- [Programación Web desde cero](https://is.gd/4QTUGL)
 
 ---
 
@@ -374,6 +374,8 @@
 [<img src="./Images/Acortar.png" alt="Acort.Ar Logo" width="160" height="80">](https://is.gd/dDfIxI)
 &nbsp;&nbsp;
 [<img src="./Images/Educacion.png" alt="Educacion Argentina Logo" width="80" height="80">](https://is.gd/RdzIEf)
+&nbsp;&nbsp;
+[<img src="./Images/IA-Educativo.png" alt="IA Educativo Logo" width="160" height="80">](https://is.gd/oOQILw)
 
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
@@ -429,4 +431,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 06 de enero de 2026**
+**Última actualización - 09 de enero de 2026**
