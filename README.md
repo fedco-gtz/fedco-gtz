@@ -132,7 +132,7 @@
 **Inteligencia Artificial**
 - [Fundamentos de Inteligencia Artificial](https://is.gd/k6NUUK)
 - [Generación de Prompts con IA](https://is.gd/wMgNh2)
-- [IA Automation](https://http.cat/401)
+- [IA Automation](https://is.gd/EdYrkb)
 
 **Ciencias de Datos**
 - [Data Analytics](https://is.gd/of4aYH)
@@ -431,4 +431,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 09 de enero de 2026**
+**Última actualización - 16 de enero de 2026**
