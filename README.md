@@ -9,7 +9,7 @@
 
 - 🧮 Profesor de Matemática
 
-- 👨🏼‍🏫 Estudiante de la `Carrera de Data Scientist` y `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://is.gd/GCb31k)
+- 👨🏼‍🏫 Estudiante de la `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://is.gd/GCb31k)
 
 - 🗂️ Accede a mi [`Portfolio Personal`](https://is.gd/jMfbIU)
 
@@ -367,7 +367,7 @@
 &nbsp;&nbsp;
 [<img src="./Images/Telecom-X.png" alt="Directorio Escuela Logo" width="160" height="80">](https://is.gd/2VnFZX)
 &nbsp;&nbsp;
-[<img src="./Images/Bici.png" alt="Análisis de Usuarios Ecobici 2024 Logo" width="80" height="80">](https://http.cat/401)
+[<img src="./Images/Bici.png" alt="Análisis de Usuarios Ecobici 2024 Logo" width="80" height="80">](https://is.gd/wyMDud)
 &nbsp;&nbsp;
 [<img src="./Images/CuandoCorro.png" alt="Cuando Corro Logo" width="80" height="80">](https://is.gd/eNu9UX)
 &nbsp;&nbsp;
@@ -376,6 +376,8 @@
 [<img src="./Images/Educacion.png" alt="Educacion Argentina Logo" width="80" height="80">](https://is.gd/RdzIEf)
 &nbsp;&nbsp;
 [<img src="./Images/IA-Educativo.png" alt="IA Educativo Logo" width="160" height="80">](https://is.gd/oOQILw)
+&nbsp;&nbsp;
+[<img src="./Images/Siniestro.png" alt="Análisis de Usuarios Ecobici 2024 Logo" width="80" height="80">](https://is.gd/nCVZNb)
 
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
