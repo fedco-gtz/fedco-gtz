@@ -87,8 +87,8 @@
 
 ### 🧉 Argentina Programa 4.0
 
-- [Primeros pasos del desarrollo frontend](https://drive.google.com/file/d/1515Bcy4hGdobzeDxOSyLe5kmVp-0Eq_Y/view?usp=sharing)
-- [Desarrollador con conocimientos complementarios en el proceso de datos con Python](https://drive.google.com/file/d/1SkbRNg_086TElDsLmwMBhfzNecy6P1D7/view?usp=sharing)
+- [Primeros pasos del desarrollo frontend](https://is.gd/n5K5fe)
+- [Desarrollador con conocimientos complementarios en el proceso de datos con Python](https://is.gd/aTP7aA)
 
 ---
 
@@ -217,7 +217,7 @@
 
 ### ⭐ UNC
 - [Introducción a la Fotografía](https://is.gd/6kqWLG)
-- [IA y automatización de flujos de trabajo: aprende a automatizar de forma eficaz y eficiente]()
+- [IA y automatización de flujos de trabajo: aprende a automatizar de forma eficaz y eficiente](https://is.gd/D9iVlu)
 - [Herramientas de inteligencia artificial para docentes 1](https://is.gd/xplemi)
 - [Herramientas de inteligencia artificial para docentes 2](https://is.gd/1HgQxd)
 
