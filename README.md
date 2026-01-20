@@ -145,7 +145,7 @@
 - [Inglés para el mundo digital - Nivel Elementary](https://is.gd/B40x5e)
 
 **Análisis de Datos**
-- [Excel](https://http.cat/401)
+- [Excel](https://is.gd/2YJLx9)
 - [Tableau](https://http.cat/401)
 - [Data Analytics](https://http.cat/401)
 - [Carrera de Data Analytics](https://http.cat/401)
@@ -433,4 +433,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 17 de enero de 2026**
+**Última actualización - 20 de enero de 2026**
