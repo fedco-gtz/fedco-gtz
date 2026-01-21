@@ -386,6 +386,8 @@
 [<img src="./Images/IA-Educativo.png" alt="IA Educativo Logo" width="160" height="80">](https://is.gd/oOQILw)
 &nbsp;&nbsp;
 [<img src="./Images/Siniestro.png" alt="Análisis de Usuarios Ecobici 2024 Logo" width="80" height="80">](https://is.gd/nCVZNb)
+&nbsp;&nbsp;
+[<img src="./Images/Cleantam.png" alt="Cleantam Logo" width="80" height="80">](https://is.gd/nsva7m)
 
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
