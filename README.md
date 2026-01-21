@@ -73,6 +73,14 @@
     <img src=./Images/Tableau.png alt=Tableau_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
     <img src=./Images/Canva.png alt=Canva_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Keras.png alt=Keras_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/TensorFlow.png alt=Tensor_Flow_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/TextBlob.png alt=TextBlob_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/ScikitLearn.png alt=Scikit_Learn_Logo width="60" height="60" style="margin-bottom: 5px;"/>
 
 </p>
 
