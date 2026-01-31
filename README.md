@@ -80,8 +80,9 @@
     &nbsp;
     <img src=./Images/TextBlob.png alt=TextBlob_Logo width="60" height="60" style="margin-bottom: 5px;"/>
     &nbsp;
-    <img src=./Images/ScikitLearn.png alt=Scikit_Learn_Logo width="60" height="60" style="margin-bottom: 5px;"/>
-
+    <img src=./Images/ScikitLearn.png alt=Scikit-Learn_Logo width="60" height="60" style="margin-bottom: 5px;"/>
+    &nbsp;
+    <img src=./Images/Imbalancedlearn.png alt=Imbalanced-learnn_Logo width="60" height="60" style="margin-bottom: 5px;"/>
 </p>
 
 <h2 align="center">📚 Capacitaciones 📚</h2>
@@ -308,14 +309,14 @@
 - [IA aplicada a la ciencia de datos: uso de la IA en la construcción de visualización de datos](https://is.gd/AlbfpH)
 
 **Estadisticas y Machine Learning G9 - ONE**
-- [Estadística con Python: frecuencias y medidas](https://http.cat/401)
-- [Estadística con Python: Probabilidad y muestreo](https://http.cat/401)
-- [Regresión Lineal: Análisis de correlaciones y previsión de resultados](https://http.cat/401)
-- [Regresión lineal: Técnicas avanzadas de Modelado](https://http.cat/401)
-- [Data Science: probando relaciones con regresión lineal](https://http.cat/401)
-- [Clasificación: validación de modelos y métricas de evaluación](https://http.cat/401)
-- [IA aumentada: previsión de atrasos de vuelos](https://http.cat/401)
-- [Challenge Telecom X: análisis de evasión de clientes - Parte 2](https://http.cat/401)
+- [Estadística con Python: frecuencias y medidas](https://is.gd/e7j65a)
+- [Estadística con Python: Probabilidad y muestreo](https://is.gd/5SJwAl)
+- [Data Science: probando relaciones con regresión lineal](https://is.gd/VC3A0y)
+- [Regresión lineal: Técnicas avanzadas de Modelado](https://is.gd/uEwT3L)
+- [Clasificación: aprendiendo a clasificar datos con Machine Learning](https://is.gd/NFPkwg)
+- [Clasificación: validación de modelos y métricas de evaluación](https://is.gd/YPxQF5)
+- [IA aumentada: previsión de atrasos de vuelos](https://is.gd/boYvpe)
+- [Challenge Telecom X: análisis de evasión de clientes - Parte 2](https://is.gd/8LHnQE)
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
@@ -369,11 +370,11 @@
 &nbsp;&nbsp;
 [<img src="./Images/InglesElementary.png" alt="Ingles Elementary Logo" width="80" height="80">](https://is.gd/5EXm2G)
 &nbsp;&nbsp;
-[<img src="./Images/AluraStore.png" alt="Directorio Escuela Logo" width="160" height="80">](https://is.gd/887wvU)
+[<img src="./Images/AluraStore.png" alt="Alura Store Logo" width="160" height="80">](https://is.gd/887wvU)
 &nbsp;&nbsp;
 [<img src="./Images/BusinessIntelligence.png" alt="Business Intelligence Logo" width="80" height="80">](https://is.gd/3flpYT)
 &nbsp;&nbsp;
-[<img src="./Images/Telecom-X.png" alt="Directorio Escuela Logo" width="160" height="80">](https://is.gd/2VnFZX)
+[<img src="./Images/Telecom-X.png" alt="Telecom X Logo" width="160" height="80">](https://is.gd/2VnFZX)
 &nbsp;&nbsp;
 [<img src="./Images/Bici.png" alt="Análisis de Usuarios Ecobici 2024 Logo" width="80" height="80">](https://is.gd/wyMDud)
 &nbsp;&nbsp;
@@ -388,6 +389,8 @@
 [<img src="./Images/Siniestro.png" alt="Análisis de Usuarios Ecobici 2024 Logo" width="80" height="80">](https://is.gd/nCVZNb)
 &nbsp;&nbsp;
 [<img src="./Images/Cleantam.png" alt="Cleantam Logo" width="80" height="80">](https://is.gd/nsva7m)
+&nbsp;&nbsp;
+[<img src="./Images/Telecom-X.png" alt="Telecom X Logo" width="160" height="80">](https://is.gd/Fghgwf)
 
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
