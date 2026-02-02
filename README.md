@@ -390,7 +390,7 @@
 &nbsp;&nbsp;
 [<img src="./Images/Cleantam.png" alt="Cleantam Logo" width="80" height="80">](https://is.gd/nsva7m)
 &nbsp;&nbsp;
-[<img src="./Images/Telecom-X.png" alt="Telecom X Logo" width="160" height="80">](https://is.gd/Fghgwf)
+[<img src="./Images/Telecom-X-2.png" alt="Telecom X - Parte 2 Logo" width="160" height="80">](https://is.gd/Fghgwf)
 
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
