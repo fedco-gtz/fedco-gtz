@@ -147,7 +147,7 @@
 - [Data Analytics](https://is.gd/of4aYH)
 - [Data Science I: Fundamentos de la Ciencia de Datos](https://is.gd/ypu76X)
 - [Data Science II: Machine Learning para la Ciencia de Datos](https://is.gd/2wqLiF)
-- [Data Science III: NLP & Deep Learning aplicado a la Ciencia de Datos](https://http.cat/401)
+- [Data Science III: NLP & Deep Learning aplicado a la Ciencia de Datos](https://is.gd/TcQZW8)
 - [Carrera de Data Scientist](https://http.cat/401)
 
 **Academia de Inglés**
@@ -446,4 +446,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 31 de enero de 2026**
+**Última actualización - 05 de febrero de 2026**
