@@ -391,7 +391,8 @@
 [<img src="./Images/Cleantam.png" alt="Cleantam Logo" width="80" height="80">](https://is.gd/nsva7m)
 &nbsp;&nbsp;
 [<img src="./Images/Telecom-X-2.png" alt="Telecom X - Parte 2 Logo" width="160" height="80">](https://is.gd/Fghgwf)
-
+&nbsp;&nbsp;
+[<img src="./Images/Analisis-Educativo.png" alt="Análisis Educativo Logo" width="160" height="80">](https://is.gd/RdzIEf)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
@@ -446,4 +447,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 05 de febrero de 2026**
+**Última actualización - 12 de febrero de 2026**
