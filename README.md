@@ -9,7 +9,7 @@
 
 - 🧮 Profesor de Matemática
 
-- 👨🏼‍🏫 Estudiante de la `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="110" height="25">](https://is.gd/GCb31k)
+- 👨🏼‍🏫 Estudiante de la `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="185" height="20">](https://is.gd/GCb31k)
 
 - 🗂️ Accede a mi [`Portfolio Personal`](https://is.gd/jMfbIU)
 
@@ -447,4 +447,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 12 de febrero de 2026**
+**Última actualización - 16 de febrero de 2026**
