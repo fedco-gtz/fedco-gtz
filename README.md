@@ -148,7 +148,7 @@
 - [Data Science I: Fundamentos de la Ciencia de Datos](https://is.gd/ypu76X)
 - [Data Science II: Machine Learning para la Ciencia de Datos](https://is.gd/2wqLiF)
 - [Data Science III: NLP & Deep Learning aplicado a la Ciencia de Datos](https://is.gd/TcQZW8)
-- [Carrera de Data Scientist](https://http.cat/401)
+- [Carrera de Data Scientist](https://is.gd/nSTc39)
 
 **Academia de Inglés**
 - [Inglés para el mundo digital - Nivel Elementary](https://is.gd/B40x5e)
