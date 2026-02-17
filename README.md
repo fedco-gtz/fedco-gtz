@@ -155,7 +155,7 @@
 
 **Análisis de Datos**
 - [Excel](https://is.gd/2YJLx9)
-- [Tableau](https://http.cat/401)
+- [Tableau](https://is.gd/oHuM2b)
 - [Data Analytics](https://http.cat/401)
 - [Carrera de Data Analytics](https://http.cat/401)
 
@@ -447,4 +447,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 16 de febrero de 2026**
+**Última actualización - 17 de febrero de 2026**
