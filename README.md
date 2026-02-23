@@ -318,6 +318,16 @@
 - [IA aumentada: previsión de atrasos de vuelos](https://is.gd/boYvpe)
 - [Challenge Telecom X: análisis de evasión de clientes - Parte 2](https://is.gd/8LHnQE)
 
+**Formaciones y Programas**
+- [Lógica de programación con JavaScript](https://is.gd/gBcywL)
+- [Principiante en Programación G9 - ONE](https://is.gd/fbZj9J)
+- [Desarrollo Personal G9 - ONE](https://is.gd/2zcXzH)
+- [Formación Emprendimiento, Agilidad y Protagonismo Profesional G9 - ONE](https://is.gd/NcOU4y)
+- [Fundamentos de Python y Datos G9 - ONE](https://is.gd/rSQnoo)
+- [Formación Aprendiendo a hacer ETL G9 - ONE](https://is.gd/0JILIN)
+- [Estadisticas y Machine Learning G9 - ONE](https://is.gd/KJl5AV)
+- [Programa ONE Tech Foundation G9 - Data Science](https://is.gd/4MrrTL)
+
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
 [<img src="./Images/Casamiento.png" alt="Casamiento Logo" width="140" height="80">](https://is.gd/sV81o5)
@@ -447,4 +457,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 17 de febrero de 2026**
+**Última actualización - 22 de febrero de 2026**
