@@ -263,6 +263,9 @@
 ---
 
 ### ✨ Alura LATAM
+
+**Programa ONE Tech Foundation G9 - Data Science**
+
 **Desarrollo Personal G9 - ONE**
 - [Aprender a aprender: técnicas para tu autodesarrollo](https://is.gd/WcC9oV)
 - [LinkedIn para profesionales: construye tu marca y genera oportunidades](https://is.gd/qag4hz)
@@ -318,6 +321,21 @@
 - [IA aumentada: previsión de atrasos de vuelos](https://is.gd/boYvpe)
 - [Challenge Telecom X: análisis de evasión de clientes - Parte 2](https://is.gd/8LHnQE)
 
+**Tech Advanced G9**
+**Ruta hacia la certificación OCI Foundations Associate - ONE**
+- [Terminal: aprenda comandos para ejecutar tareas](https://is.gd/AILwps)
+- [Redes y Protocolos: Fundamentos de la web](https://is.gd/Jg5p8b)
+- [Certificación Oracle Cloud Infrastructure: fundamentos clave y servicios esenciales](https://is.gd/k1VZeU)
+- [Certificación Oracle Cloud Infrastructure: gestión de datos, seguridad y gobernanza](https://is.gd/ZKJavI)
+- [Entrega Certificación OCI Foundations Associate](https://is.gd/RoTWoS)
+
+**SQL con MySQL Server de Oracle - ONE**
+- []()
+- []()
+- []()
+- []()
+- []()
+
 **Formaciones y Programas**
 - [Lógica de programación con JavaScript](https://is.gd/gBcywL)
 - [Principiante en Programación G9 - ONE](https://is.gd/fbZj9J)
@@ -327,6 +345,7 @@
 - [Formación Aprendiendo a hacer ETL G9 - ONE](https://is.gd/0JILIN)
 - [Estadisticas y Machine Learning G9 - ONE](https://is.gd/KJl5AV)
 - [Programa ONE Tech Foundation G9 - Data Science](https://is.gd/4MrrTL)
+- [Programa ONE Tech Advanced](https://is.gd/TZvLPh)
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
@@ -457,4 +476,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 22 de febrero de 2026**
+**Última actualización - 01 de abril de 2026**
