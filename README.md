@@ -338,17 +338,34 @@
 - [Administración de MySQL: Seguridad y optimización de la base de datos - Parte 1]()
 - [Administración de MySQL: Seguridad y optimización de la base de datos - Parte 2]()
 
+**Oracle en la Práctica: Autonomous Database y APEX - ONE**
+- [Oracle Autonomous Database](https://is.gd/rNdg6C)
+- [Low Code e IA con Oracle Apex](https://is.gd/PKtGVq)
+
+**IA Generativa - ONE**
+- [ChatGPT: optimizando la calidad de los resultados](https://is.gd/cm7iPd)
+- [Inteligencia Artificial: Preparación para el mercado](https://is.gd/I1LyrB)
+- [Productividad: optimizando tu rutina con inteligencia artificial](https://is.gd/J1iLLQ)
+
+**Oracle Cloud Infrastructure - ONE**
+- [Oracle Cloud Infrastructure: implementación de una aplicación en la nube]()
+- [Oracle Cloud Infrastructure: base de datos e infraestructura como código]()
+
 **Formaciones y Programas**
-- [Lógica de programación con JavaScript](https://is.gd/gBcywL)
-- [Principiante en Programación G9 - ONE](https://is.gd/fbZj9J)
-- [Desarrollo Personal G9 - ONE](https://is.gd/2zcXzH)
+- [Formación Lógica de programación con JavaScript](https://is.gd/gBcywL)
+- [Formación Principiante en Programación G9 - ONE](https://is.gd/fbZj9J)
+- [Formación Desarrollo Personal G9 - ONE](https://is.gd/2zcXzH)
 - [Formación Emprendimiento, Agilidad y Protagonismo Profesional G9 - ONE](https://is.gd/NcOU4y)
-- [Fundamentos de Python y Datos G9 - ONE](https://is.gd/rSQnoo)
+- [Formación Fundamentos de Python y Datos G9 - ONE](https://is.gd/rSQnoo)
 - [Formación Aprendiendo a hacer ETL G9 - ONE](https://is.gd/0JILIN)
-- [Estadisticas y Machine Learning G9 - ONE](https://is.gd/KJl5AV)
+- [Formación Estadisticas y Machine Learning G9 - ONE](https://is.gd/KJl5AV)
 - [Programa ONE Tech Foundation G9 - Data Science](https://is.gd/4MrrTL)
+- [Formación Ruta hacia la certificación OCI Foundations Associate - ONE](https://is.gd/PZuwnM)
+- [Formación SQL con MySQL Server de Oracle - ONE]()
+- [Formación Oracle en la Práctica: Autonomous Database y APEX - ONE](https://is.gd/sir416)
+- [Formación IA Generativa - ONE](https://is.gd/D0kEH6)
+- [Formación Oracle Cloud Infrastructure - ONE]()
 - [Programa ONE Tech Advanced](https://is.gd/TZvLPh)
-- [Programa SQL con MySQL Server de Oracle - ONE]()
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
@@ -479,4 +496,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 01 de abril de 2026**
+**Última actualización - 04 de abril de 2026**
