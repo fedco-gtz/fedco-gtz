@@ -348,8 +348,8 @@
 - [Productividad: optimizando tu rutina con inteligencia artificial](https://is.gd/J1iLLQ)
 
 **Oracle Cloud Infrastructure - ONE**
-- [Oracle Cloud Infrastructure: implementación de una aplicación en la nube]()
-- [Oracle Cloud Infrastructure: base de datos e infraestructura como código]()
+- [Oracle Cloud Infrastructure: implementación de una aplicación en la nube](https://is.gd/1FDftp)
+- [Oracle Cloud Infrastructure: base de datos e infraestructura como código](https://is.gd/eWZ5dd)
 
 **Formaciones y Programas**
 - [Formación Lógica de programación con JavaScript](https://is.gd/gBcywL)
@@ -360,11 +360,13 @@
 - [Formación Aprendiendo a hacer ETL G9 - ONE](https://is.gd/0JILIN)
 - [Formación Estadisticas y Machine Learning G9 - ONE](https://is.gd/KJl5AV)
 - [Programa ONE Tech Foundation G9 - Data Science](https://is.gd/4MrrTL)
-- [Formación Ruta hacia la certificación OCI Foundations Associate - ONE](https://is.gd/PZuwnM)
+- [Formación Ruta hacia la certificación OCI Foundations Associate](https://is.gd/PZuwnM)
+- [Formación Ruta hacia la certificación OCI Foundations Associate - ONE](https://is.gd/WgWQFR)
 - [Formación SQL con MySQL Server de Oracle - ONE]()
 - [Formación Oracle en la Práctica: Autonomous Database y APEX - ONE](https://is.gd/sir416)
 - [Formación IA Generativa - ONE](https://is.gd/D0kEH6)
-- [Formación Oracle Cloud Infrastructure - ONE]()
+- [Formación Oracle Cloud Infrastructure](https://is.gd/g2Yw1Y)
+- [Formación Oracle Cloud Infrastructure - ONE](https://is.gd/ZEvHoI)
 - [Programa ONE Tech Advanced](https://is.gd/TZvLPh)
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
