@@ -322,6 +322,7 @@
 - [Challenge Telecom X: análisis de evasión de clientes - Parte 2](https://is.gd/8LHnQE)
 
 **Tech Advanced G9**
+
 **Ruta hacia la certificación OCI Foundations Associate - ONE**
 - [Terminal: aprenda comandos para ejecutar tareas](https://is.gd/AILwps)
 - [Redes y Protocolos: Fundamentos de la web](https://is.gd/Jg5p8b)
@@ -498,4 +499,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 04 de abril de 2026**
+**Última actualización - 05 de abril de 2026**
