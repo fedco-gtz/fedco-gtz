@@ -331,9 +331,9 @@
 - [Entrega Certificación OCI Foundations Associate](https://is.gd/RoTWoS)
 
 **SQL con MySQL Server de Oracle - ONE**
-- [Introducción a SQL con MySQL: Manipule y consulte datos]()
-- [Consultas SQL: Avanzando en SQL con MySQL]()
-- [Comandos DML: Manipulación de datos con MySQL]()
+- [Introducción a SQL con MySQL: Manipule y consulte datos](https://is.gd/hPWvcJ)
+- [Consultas SQL: Avanzando en SQL con MySQL](https://is.gd/dy4Rum)
+- [Comandos DML: Manipulación de datos con MySQL](https://is.gd/C1xtx0)
 - [Procedures SQL: Ejecutando código en MySQL]()
 - [SQL con MySQL: Proyecto final]()
 - [Administración de MySQL: Seguridad y optimización de la base de datos - Parte 1]()
@@ -369,6 +369,7 @@
 - [Formación Oracle Cloud Infrastructure](https://is.gd/g2Yw1Y)
 - [Formación Oracle Cloud Infrastructure - ONE](https://is.gd/ZEvHoI)
 - [Programa ONE Tech Advanced](https://is.gd/TZvLPh)
+- [Certificado Completo](https://is.gd/7mFWfK)
 
 <h2 align="center">🧑🏽‍💻 Proyectos 🧑🏽‍💻</h2>
 
