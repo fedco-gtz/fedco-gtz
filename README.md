@@ -122,7 +122,7 @@
 - [Business Intelligence](https://is.gd/jogV7q)
 - [Introducción a la IA](https://is.gd/mFWwid)
 - [Construí Tu Futuro - Comunicación Efectiva](https://is.gd/akSTUn)
-- [Multimedia con IA](https://http.cat/401)
+- [IA para todos](https://tinyurl.com/28ywz74d)
 
 ---
 
@@ -334,10 +334,10 @@
 - [Introducción a SQL con MySQL: Manipule y consulte datos](https://is.gd/hPWvcJ)
 - [Consultas SQL: Avanzando en SQL con MySQL](https://is.gd/dy4Rum)
 - [Comandos DML: Manipulación de datos con MySQL](https://is.gd/C1xtx0)
-- [Procedures SQL: Ejecutando código en MySQL]()
-- [SQL con MySQL: Proyecto final]()
-- [Administración de MySQL: Seguridad y optimización de la base de datos - Parte 1]()
-- [Administración de MySQL: Seguridad y optimización de la base de datos - Parte 2]()
+- [Procedures SQL: Ejecutando código en MySQL](https://tinyurl.com/295egqhs)
+- [SQL con MySQL: Proyecto final](https://is.gd/bA9x0V)
+- [Administración de MySQL: Seguridad y optimización de la base de datos - Parte 1](https://tinyurl.com/2b2v4nqz)
+- [Administración de MySQL: Seguridad y optimización de la base de datos - Parte 2](https://tinyurl.com/24ncaf6d)
 
 **Oracle en la Práctica: Autonomous Database y APEX - ONE**
 - [Oracle Autonomous Database](https://is.gd/rNdg6C)
@@ -363,7 +363,8 @@
 - [Programa ONE Tech Foundation G9 - Data Science](https://is.gd/4MrrTL)
 - [Formación Ruta hacia la certificación OCI Foundations Associate](https://is.gd/PZuwnM)
 - [Formación Ruta hacia la certificación OCI Foundations Associate - ONE](https://is.gd/WgWQFR)
-- [Formación SQL con MySQL Server de Oracle - ONE]()
+- [Formación SQL con MySQL Server de Oracle](https://is.gd/RV8DdE)
+- [Formación SQL con MySQL Server de Oracle - ONE](https://tinyurl.com/2ag425ht)
 - [Formación Oracle en la Práctica: Autonomous Database y APEX - ONE](https://is.gd/sir416)
 - [Formación IA Generativa - ONE](https://is.gd/D0kEH6)
 - [Formación Oracle Cloud Infrastructure](https://is.gd/g2Yw1Y)
@@ -446,6 +447,8 @@
 [<img src="./Images/Telecom-X-2.png" alt="Telecom X - Parte 2 Logo" width="160" height="80">](https://is.gd/Fghgwf)
 &nbsp;&nbsp;
 [<img src="./Images/Analisis-Educativo.png" alt="Análisis Educativo Logo" width="160" height="80">](https://is.gd/RdzIEf)
+&nbsp;&nbsp;
+[<img src="./Images/Cuestionario.png" alt="Cuestionario Logo" width="80" height="80">](https://tinyurl.com/24lg6mth)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
@@ -500,4 +503,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 05 de abril de 2026**
+**Última actualización - 06 de mayo de 2026**
