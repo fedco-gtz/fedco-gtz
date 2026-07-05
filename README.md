@@ -1,15 +1,13 @@
 <h1 align="center">Hola 👋 <br> Soy Federico G. Gutierrez</a></h1>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=fedco-gtz&label=Vista%20de%20Perfil&color=0e75b6&style=flat" alt="FedericoGutierrez" /> 
-    <img src="https://img.shields.io/badge/Edad-32-blue" alt="Edad">
+    <img src="https://img.shields.io/badge/Edad-33-blue" alt="Edad">
     <img src="https://img.shields.io/badge/Vivo-Argentina-success" />
 </p>
 
 
 
 - 🧮 Profesor de Matemática
-
-- 👨🏼‍🏫 Estudiante de la `Carrera de Data Analytics` en &nbsp;&nbsp;[<img src="./Images/Coder.png" alt="Coderhouse Logo" width="185" height="20">](https://is.gd/GCb31k)
 
 - 🗂️ Accede a mi [`Portfolio Personal`](https://is.gd/jMfbIU)
 
@@ -123,6 +121,8 @@
 - [Introducción a la IA](https://is.gd/mFWwid)
 - [Construí Tu Futuro - Comunicación Efectiva](https://is.gd/akSTUn)
 - [IA para todos](https://tinyurl.com/28ywz74d)
+- [Data Analytics con Python]()
+- [Testing QA]()
 
 ---
 
@@ -156,7 +156,7 @@
 **Análisis de Datos**
 - [Excel](https://is.gd/2YJLx9)
 - [Tableau](https://is.gd/oHuM2b)
-- [Data Analytics](https://http.cat/401)
+- [Data Analytics](https://tinyurl.com/2cmgj36t)
 - [Carrera de Data Analytics](https://http.cat/401)
 
 ---
@@ -259,6 +259,8 @@
 - [Enseñanza y aprendizaje del Álgebra en la escuela secundaria](https://is.gd/r7eAPS)
 - [La educación matemática desde la perspectiva de la investigación](https://is.gd/eGF36D)
 - [Actualización Académica en Enseñar y aprender matemática en la escuela secundaria](https://is.gd/t0ixhH)
+- [Temas de enseñanza de Geometría y Medida]()
+- [El libro de texto para hacer matemática. Herramientas para analizar, seleccionar y enriquecer propuestas de enseñanza]()
 
 ---
 
@@ -503,4 +505,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 06 de mayo de 2026**
+**Última actualización - 05 de julio de 2026**
