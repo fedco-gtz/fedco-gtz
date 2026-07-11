@@ -452,7 +452,7 @@
 &nbsp;&nbsp;
 [<img src="./Images/Cuestionario.png" alt="Cuestionario Logo" width="80" height="80">](https://tinyurl.com/24lg6mth)
 &nbsp;&nbsp;
-[<img src="./Images/Synthdata.png" alt="Synthdata Logo" width="80" height="80">](https://is.gd/J6gVfZ)
+[<img src="./Images/Synthdata.png" alt="Synthdata Logo" width="80" height="80">](https://tinyurl.com/2cqhbb6o)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
