@@ -451,6 +451,8 @@
 [<img src="./Images/Analisis-Educativo.png" alt="Análisis Educativo Logo" width="160" height="80">](https://is.gd/RdzIEf)
 &nbsp;&nbsp;
 [<img src="./Images/Cuestionario.png" alt="Cuestionario Logo" width="80" height="80">](https://tinyurl.com/24lg6mth)
+&nbsp;&nbsp;
+[<img src="./Images/Synthdata.png" alt="Synthdata Logo" width="80" height="80">](https://is.gd/J6gVfZ)
 
 <h2 align="center">✅ Aprendizaje avalado por ✅ </h2>
 
