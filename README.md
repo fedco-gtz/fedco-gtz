@@ -157,7 +157,7 @@
 - [Excel](https://is.gd/2YJLx9)
 - [Tableau](https://is.gd/oHuM2b)
 - [Data Analytics](https://tinyurl.com/2cmgj36t)
-- [Carrera de Data Analytics](https://http.cat/401)
+- [Carrera de Data Analytics](https://tinyurl.com/276tn433)
 
 ---
 
@@ -505,4 +505,4 @@
 </p>
 
 _________________________________________________________________________________________________________
-**Última actualización - 05 de julio de 2026**
+**Última actualización - 11 de julio de 2026**
